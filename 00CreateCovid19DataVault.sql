@@ -33,7 +33,7 @@ SET ANSI_NULLS ON
 GO
 SET QUOTED_IDENTIFIER ON
 GO
-ALTER PROCEDURE [Stage].[upProcessJson]
+CREATE PROCEDURE [Stage].[upProcessJson]
 AS
      IF EXISTS
      (

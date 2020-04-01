@@ -7,12 +7,12 @@ $result = Invoke-WebRequest $request
 $csvTest = 'https://covid.ourworldindata.org/data/ecdc/full_data.csv'
 $result02 = Invoke-WebRequest $csvTest
 
-#Write-Host $result02
-#Write-Host $result
+#write results to files
 
 Set-Content T:\Documents\kDSResearch2020\StateDelta.json  $result  #ouputs file to json file
 Set-Content T:\Documents\kDSResearch2020\CovidWorldDaily.csv  $result02
 
+#process CSV file
 $currentFile = "T:\Documents\kDSResearch2020\CovidWorldDaily.csv" 
 
 $csv = Import-Csv $currentFile 
@@ -26,37 +26,28 @@ Add-Content T:\Documents\kDSResearch2020\CovidWorldDaily.sql "create table Stage
 Write-Host "Processing CSV..."
 ForEach ($item in $csv){ 
 
-  #location has replace to accomodate locations with single quote in name
+  #location has replace parameter to accomodate locations with single quote in name like cote d'ivoire
   $sqlInsert = "INSERT INTO Stage.CSVCovidWorldDaily values('" + ($item.date) + "','" +($item.location -replace "'", "''") +  "'," + ($item.new_cases) + "," + ($item.new_deaths) + ","+ ($item.total_cases) +","+ ($item.total_deaths)+ ""+ ")" 
   Add-Content T:\Documents\kDSResearch2020\CovidWorldDaily.sql  $sqlInsert
  }
 
-
-
 Write-Host "Executing SQL..."
-
 
 CLS
 $sourceServerName = "KDSDESKTOP01\MSSQLSERVER2019"
 $destinationServerName = "KDSDESKTOP01\MSSQLSERVER2019"
-$sourceSharePath = "\\" + $sourceServerName + "\HDrive\Backup"
-$destinationSharePath =  "\\" + $destinationServerName + "\HDrive\Backup"
-$sourceScriptFilePath = "D:\USNBKB355T\" + $sourceServerName + "\"
-$destinationScriptFilePath = "D:\USNBKB355T\" + $destinationServerName + "\"
 
 $database = "Covid19DataVault"
 $queryString = "EXEC Stage.upProcessJson "
-$sourceScriptFilePath = $sourceScriptFilePath + "OutputTest.txt"
-#process JSON
+#process JSON --execute store procedure to load JSON file
 Invoke-Sqlcmd -ServerInstance $sourceServerName -Database $database -Query $queryString
 
-#load CSV
+#load CSV  -- run SQL script generated above
 Invoke-Sqlcmd -ServerInstance $sourceServerName -Database $database -InputFile "T:\Documents\kDSResearch2020\CovidWorldDaily.sql" > "T:\Documents\kDSResearch2020\CovidWorldDaily.txt"
 
-#process CSV
+#process CSV -- executes Stored procedure in Covid19DataVault database
 $queryString = "EXEC Stage.upDailyTotalByCountry"
 Invoke-Sqlcmd -ServerInstance $sourceServerName -Database $database -Query $queryString
-
 
 Write-Host "Done..."
 
