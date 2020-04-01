@@ -34,8 +34,8 @@ ForEach ($item in $csv){
 Write-Host "Executing SQL..."
 
 CLS
-$sourceServerName = "KDSDESKTOP01\MSSQLSERVER2019"
-$destinationServerName = "KDSDESKTOP01\MSSQLSERVER2019"
+$sourceServerName = "ServerName\InstanceGoesHere"
+$destinationServerName = "ServerName\InstanceGoesHere"
 
 $database = "Covid19DataVault"
 $queryString = "EXEC Stage.upProcessJson "
