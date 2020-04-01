@@ -1,3 +1,6 @@
+USE master
+GO
+
 CREATE DATABASE Covid19DataVault;
 GO
 USE Covid19DataVault;
