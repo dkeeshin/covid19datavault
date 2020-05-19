@@ -1,0 +1,10 @@
+DatabaseName,TableName
+Covid19DataVault, WorldRegion
+Covid19DataVault, WorldSubRegion
+Covid19DataVault, Country
+Covid19DataVault, CountryRegion
+Covid19DataVault, CountrySubRegion
+Covid19DataVault, ProvinceState
+Covid19DataVault, CountyRegion
+Covid19DataVault, County
+Covid19DataVault, City
