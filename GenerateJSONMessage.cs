@@ -108,9 +108,9 @@ namespace GenerateJSONMessage
 					reader = cmd.ExecuteReader();  //get next item
 				}
 			}
-			catch (SqlException e)
+			catch (Exception exception)
 			{
-				Console.WriteLine("SQL Error " + e);
+				Console.WriteLine($"{DateTime.Now} :: Exception: {exception.Message}");
 				if (conn01!= null)
 				{conn01.Close(); }
 				if (reader != null)
