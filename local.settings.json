@@ -3,6 +3,6 @@
   "Values": {
     "AzureWebJobsStorage": "UseDevelopmentStorage=true",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet",
-    "ServiceBus01": "Endpoint=sb://yourservicebusnamespacehere.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=bVWnZeDW+LYz/cX2Q64u7QC9ZsuCVqUT6lPMF3fLIVk=",
+    "ServiceBus01": "Endpoint=sb://yourservicebusnamespacehere.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=localaccesskeygoes here",
       }
 }
