@@ -7,11 +7,15 @@ using System.Data.SqlClient;
 using Microsoft.Azure.ServiceBus;
 using Microsoft.Azure.Amqp.Framing;
 
-namespace FunctionApp3
+namespace FunctionApp
 {
+
+ 
     public static class Function3
     {
-        private static int messageCounter = 1;
+
+        private static int messageCounter ;  //makes sure first message generates only one database connection for current batch
+
         [FunctionName("Function3")]
         public static void Run(
                 [ServiceBusTrigger("datavaultqueue03", Connection = "ServiceBus01")]
@@ -19,13 +23,19 @@ namespace FunctionApp3
         {
             log.LogInformation($"C# ServiceBus queue trigger function processed message: {payLoad}");
 
-            try
-            {
+            try           {
+                                
+                SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder();
+                //@"LoccalServerNameGoesHere\InstanceNameGoesHere"  
+                builder.DataSource = "yourdatabaseservernamegoeshere.database.windows.net";
+                builder.UserID = "userIDgoeshere";
+                builder.Password = "passwordGoesHEre";
+                builder.InitialCatalog = "Covid19DataVaultForAzure";
 
-                using SqlConnection conn01 = new SqlConnection(@"Server=DatabaseServerNameGoesHere\MSSQLSERVER2019;Database=COVID19DataVaultForAzure;Integrated Security=SSPI");
+                using SqlConnection conn01 = new SqlConnection(builder.ConnectionString);
                 conn01.Open();
                 messageCounter += 1;
-                Console.WriteLine("Message Counter is: " + messageCounter);
+                Console.WriteLine("Connected...message count is " + messageCounter);
 
                 //set sql command for a stored proceudre
                 SqlCommand cmd = new SqlCommand("Message.upItemCounTYDetail", conn01)
@@ -39,7 +49,7 @@ namespace FunctionApp3
                 //execute stored procedure
                 cmd.ExecuteNonQuery();
                 conn01.Close();
-
+                
             }
             catch (SqlException e)
             {
@@ -48,6 +58,9 @@ namespace FunctionApp3
             finally
             {
             }
+
+
+
         }
     }
-    }
+}
