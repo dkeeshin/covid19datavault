@@ -5,9 +5,9 @@ CLS
 $SubscriptionId = "subscriptionIDgoeshere"
 
 # Set the resource group name and location for your server
-$resourceGroupName = "resourcegroupnamegeoshere"
+$resourceGroupName = "resourcegroupnamegoeshere"
 
-$location = ""
+$location = "locationnamegoeshere"
 
 # Set an admin login and password for your server
 $adminSqlLogin = "loginNameGoesHere"
