@@ -1,3 +1,4 @@
+## Powershell script from creating Azure SQL Database server
 CLS
 #Connect-AzAccount  -- will use default need to login as datavault@keeshinds.com
 
