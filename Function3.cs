@@ -1,3 +1,5 @@
+//Azure Service Bus Trigger
+//when a message is sent to Azure Service Bus Queue it triggers a SQL Server stored procedure  DK 20200610
 using System;
 using Microsoft.Azure.WebJobs;
 using Microsoft.Azure.WebJobs.Host;
