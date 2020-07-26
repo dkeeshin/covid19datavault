@@ -1,6 +1,6 @@
 {
   "country": [
-    { "code": "AFG" },
+    { "ISOcode": "AFG" },
     {
       "continent": "Asia",
       "location": "Afghanistan",
