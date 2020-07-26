@@ -94,7 +94,7 @@
     ],
     { "ISOcode": "ZWE" },
     [
-       {
+      {
         "continent": "Africa",
         "location": "Zimbabwe",
         "population": 14862927.0,
@@ -171,6 +171,7 @@
             "total_deaths_per_million": 2.288,
             "new_deaths_per_million": 0.135
           }
+        ]
       }
     ]
   ]
