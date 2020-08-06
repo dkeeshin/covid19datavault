@@ -8,11 +8,19 @@
 			{"name": "History"},
 			{"name": "Load"},
 			{"name": "Message"} ],
-       "Table":  [{"TableName":"Core.Test01" ,
-		"Column":  [{"TestID": "Test01ID int  NOT NULL",
-		"SourceReferenceKey": "SourceReferenceKey NVARCHAR(64)  NOT NULL",
-                "Source": "Source NVARCHAR(64)  NOT NULL",
-                "EffectiveStartDate": "EffectiveStartDate DATETIME2  NOT NULL",
-		"EffectiveEndDate": "EffectiveEndDate DATETIME2  NOT NULL",
-		"HashValue": "HashValue varbinary(32)  NOT NULL"}} ]
+	"Table": [
+		{
+			"TableName": "Core.Test01",
+			"Column": [
+				{
+					"TestID": "Test01ID int  NOT NULL",
+					"SourceReferenceKey": "SourceReferenceKey NVARCHAR(64)  NOT NULL",
+					"Source": "Source NVARCHAR(64)  NOT NULL",
+					"EffectiveStartDate": "EffectiveStartDate DATETIME2  NOT NULL",
+					"EffectiveEndDate": "EffectiveEndDate DATETIME2  NOT NULL",
+					"HashValue": "HashValue varbinary(32)  NOT NULL"
+				}
+			]
+		}
+	]
 }
