@@ -1,0 +1,18 @@
+{
+    "DatabaseName": "TestDataVault",
+    "Schema": [{"name": "Core"},
+			{"name": "Item"},
+			{"name": "Link"},
+			{"name": "Reference"},
+			{"name": "Stage"},
+			{"name": "History"},
+			{"name": "Load"},
+			{"name": "Message"} ],
+       "TableName":  "Core.Test01" ,
+					 [{"TestID": "Test01ID int  NOT NULL"},
+					 {"SourceReferenceKey": "SourceReferenceKey NVARCHAR(64)  NOT NULL"},
+                     {"Source": "Source NVARCHAR(64)  NOT NULL"},
+                     {"EffectiveStartDate": "EffectiveStartDate DATETIME2  NOT NULL"},
+					 {"EffectiveEndDate": "EffectiveEndDate DATETIME2  NOT NULL"},
+					 {"HashValue": "HashValue varbinary(32)  NOT NULL"} ]
+}
