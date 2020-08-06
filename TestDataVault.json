@@ -8,7 +8,7 @@
 			{"name": "History"},
 			{"name": "Load"},
 			{"name": "Message"} ],
-       "Table":  [{"Core.Test01"} ,
+       "Table":  [{"name":"Core.Test01"} ,
 		{"TestID": "Test01ID int  NOT NULL"},
 		{"SourceReferenceKey": "SourceReferenceKey NVARCHAR(64)  NOT NULL"},
                 {"Source": "Source NVARCHAR(64)  NOT NULL"},
