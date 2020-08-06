@@ -21,6 +21,20 @@
 					"HashValue": "HashValue varbinary(32)  NOT NULL"
 				}
 			]
+		},
+		{
+			"TableName": "Core.Test02",
+			"Column": [
+				{
+					"TestID": "Test02ID int  NOT NULL",
+					"SourceReferenceKey": "SourceReferenceKey NVARCHAR(64)  NOT NULL",
+					"Source": "Source NVARCHAR(64)  NOT NULL",
+					"EffectiveStartDate": "EffectiveStartDate DATETIME2  NOT NULL",
+					"EffectiveEndDate": "EffectiveEndDate DATETIME2  NOT NULL",
+					"HashValue": "HashValue varbinary(32)  NOT NULL"
+				}
+			]
 		}
+
 	]
 }
