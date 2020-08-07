@@ -16,15 +16,15 @@
 					"Core.Test01": "EffectiveStartDate DATETIME2  NOT NULL",
 					"Core.Test01": "EffectiveEndDate DATETIME2  NOT NULL",
 					"Core.Test01": "HashValue varbinary(32)  NOT NULL"
-				},
-				{	"Core.Test02": "Test02ID int  NOT NULL",
+				}],
+	"Core.Test02":	[{	"Core.Test02": "Test02ID int  NOT NULL",
 					"Core.Test02": "SourceReferenceKey NVARCHAR(64)  NOT NULL",
 					"Core.Test02": "Source NVARCHAR(64)  NOT NULL",
 					"Core.Test02": "EffectiveStartDate DATETIME2  NOT NULL",
 					"Core.Test02": "EffectiveEndDate DATETIME2  NOT NULL",
 					"Core.Test02": "HashValue varbinary(32)  NOT NULL"
-				}
+				}]
 				
-			]
+			
 		
 }
