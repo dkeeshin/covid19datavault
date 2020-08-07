@@ -1,13 +1,13 @@
 {
     "DatabaseName": "TestDataVault",
-    "Schema": [{"name": "Core",
-			"name": "Item",
-			"name": "Link",
-			"name": "Reference",
-			"name": "Stage",
-			"name": "History",
-			"name": "Load",
-			"name": "Message"} ],
+    "Schema": [{{"SchemaName": "Core",
+			"SchemaName": "Item",
+			"SchemaName": "Link",
+			"SchemaName": "Reference",
+			"SchemaName": "Stage",
+			"SchemaName": "History",
+			"SchemaName": "Load",
+			"SchemaName": "Message"}} ],
 	"Table": [
 		{
 			"TableName": "Core.Test01",
