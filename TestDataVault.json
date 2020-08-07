@@ -1,13 +1,13 @@
 {
     "DatabaseName": "TestDataVault",
-    "Schema": [{{"SchemaName": "Core",
-			"SchemaName": "Item",
-			"SchemaName": "Link",
-			"SchemaName": "Reference",
-			"SchemaName": "Stage",
-			"SchemaName": "History",
-			"SchemaName": "Load",
-			"SchemaName": "Message"}} ],
+    "Schema": [{"SchemaName": "Core"},
+	       {"SchemaName": "Item"},
+	       {"SchemaName": "Link"},
+	       {"SchemaName": "Reference"},
+	       {"SchemaName": "Stage"},
+	       {"SchemaName": "History"},
+	       {"SchemaName": "Load"},
+	       {"SchemaName": "Message"} ],
 	"Table": [
 		{
 			"TableName": "Core.Test01",
@@ -26,7 +26,7 @@
 			"TableName": "Core.Test02",
 			"Column": [
 				{
-					"TestID": "Test02ID int  NOT NULL",
+					"Test02ID": "Test02ID int  NOT NULL",
 					"SourceReferenceKey": "SourceReferenceKey NVARCHAR(64)  NOT NULL",
 					"Source": "Source NVARCHAR(64)  NOT NULL",
 					"EffectiveStartDate": "EffectiveStartDate DATETIME2  NOT NULL",
