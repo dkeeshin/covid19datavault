@@ -1,1 +1,53 @@
-{"pages":[{"name":"page1","elements":[{"type":"matrix","name":"Are you from an anternate universe?","columns":[{"value":"Yes","text":"Yep"},{"value":"No","text":"Nope"},{"value":"DontKnow","text":"I dunno"}],"rows":[{"value":"Been Here for while","text":"From a long time ago?"},{"value":"Just Arrived","text":"Recently?"}]},{"type":"checkbox","name":"question2","choices":["item1","item2","item3"]},{"type":"text","name":"question1"},{"type":"radiogroup","name":"question3","choices":["item1","item2","item3"]}],"title":"The MATRIX","description":"Alternate Universe"}]}
+{
+  "pages": [
+    {
+      "name": "page1",
+      "elements": [
+        {
+          "type": "matrix",
+          "name": "Are you from an anternate universe?",
+          "columns": [
+            {
+              "value": "Yes",
+              "text": "Yep"
+            },
+            {
+              "value": "No",
+              "text": "Nope"
+            },
+            {
+              "value": "DontKnow",
+              "text": "I dunno"
+            }
+          ],
+          "rows": [
+            {
+              "value": "Been Here for while",
+              "text": "From a long time ago?"
+            },
+            {
+              "value": "Just Arrived",
+              "text": "Recently?"
+            }
+          ]
+        },
+        {
+          "type": "checkbox",
+          "name": "question2",
+          "choices": [ "item1", "item2", "item3" ]
+        },
+        {
+          "type": "text",
+          "name": "question1"
+        },
+        {
+          "type": "radiogroup",
+          "name": "question3",
+          "choices": [ "item1", "item2", "item3" ]
+        }
+      ],
+      "title": "The MATRIX",
+      "description": "Alternate Universe"
+    }
+  ]
+}
