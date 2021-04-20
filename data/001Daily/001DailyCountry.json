@@ -1,0 +1,1802 @@
+[
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Afghanistan",
+        "CaseCount":  72,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  57793,
+        "PeriodToDateDeathCount":  2539,
+        "Population":  37172386,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Albania",
+        "CaseCount":  138,
+        "DeathCount":  2,
+        "PeriodToDateCaseCount":  129594,
+        "PeriodToDateDeathCount":  2342,
+        "Population":  2866376,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Algeria",
+        "CaseCount":  156,
+        "DeathCount":  3,
+        "PeriodToDateCaseCount":  119642,
+        "PeriodToDateDeathCount":  3155,
+        "Population":  42228429,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Andorra",
+        "CaseCount":  34,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  12805,
+        "PeriodToDateDeathCount":  123,
+        "Population":  77006,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Angola",
+        "CaseCount":  89,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  24389,
+        "PeriodToDateDeathCount":  561,
+        "Population":  30809762,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Antigua and Barbuda",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  1216,
+        "PeriodToDateDeathCount":  31,
+        "Population":  96286,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Argentina",
+        "CaseCount":  16267,
+        "DeathCount":  64,
+        "PeriodToDateCaseCount":  2694014,
+        "PeriodToDateDeathCount":  59228,
+        "Population":  44494502,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Armenia",
+        "CaseCount":  547,
+        "DeathCount":  19,
+        "PeriodToDateCaseCount":  208520,
+        "PeriodToDateDeathCount":  3878,
+        "Population":  2951776,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Australia",
+        "CaseCount":  14,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  29533,
+        "PeriodToDateDeathCount":  910,
+        "Population":  24992369,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Austria",
+        "CaseCount":  2076,
+        "DeathCount":  28,
+        "PeriodToDateCaseCount":  593423,
+        "PeriodToDateDeathCount":  9898,
+        "Population":  8847037,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Azerbaijan",
+        "CaseCount":  2144,
+        "DeathCount":  33,
+        "PeriodToDateCaseCount":  300666,
+        "PeriodToDateDeathCount":  4140,
+        "Population":  9942334,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Bahamas, The",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  9634,
+        "PeriodToDateDeathCount":  194,
+        "Population":  385640,
+        "Source":  "Covid19DataVault"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Bahrain",
+        "CaseCount":  997,
+        "DeathCount":  6,
+        "PeriodToDateCaseCount":  164110,
+        "PeriodToDateDeathCount":  594,
+        "Population":  1569439,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Bangladesh",
+        "CaseCount":  3698,
+        "DeathCount":  102,
+        "PeriodToDateCaseCount":  718950,
+        "PeriodToDateDeathCount":  10385,
+        "Population":  161356039,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Barbados",
+        "CaseCount":  8,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  3781,
+        "PeriodToDateDeathCount":  44,
+        "Population":  286641,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Belarus",
+        "CaseCount":  1300,
+        "DeathCount":  10,
+        "PeriodToDateCaseCount":  344223,
+        "PeriodToDateDeathCount":  2423,
+        "Population":  9485386,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Belgium",
+        "CaseCount":  2996,
+        "DeathCount":  29,
+        "PeriodToDateCaseCount":  949996,
+        "PeriodToDateDeathCount":  23747,
+        "Population":  11422068,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Belize",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  12538,
+        "PeriodToDateDeathCount":  318,
+        "Population":  383071,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Benin",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  7611,
+        "PeriodToDateDeathCount":  95,
+        "Population":  11485048,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Bhutan",
+        "CaseCount":  5,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  957,
+        "PeriodToDateDeathCount":  1,
+        "Population":  754394,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Bolivia",
+        "CaseCount":  1706,
+        "DeathCount":  23,
+        "PeriodToDateCaseCount":  289066,
+        "PeriodToDateDeathCount":  12648,
+        "Population":  11353142,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Bosnia and Herzegovina",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  188994,
+        "PeriodToDateDeathCount":  7788,
+        "Population":  3323929,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Botswana",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  44075,
+        "PeriodToDateDeathCount":  671,
+        "Population":  2254126,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Brazil",
+        "CaseCount":  42980,
+        "DeathCount":  1657,
+        "PeriodToDateCaseCount":  13943071,
+        "PeriodToDateDeathCount":  373335,
+        "Population":  209469333,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Brunei Darussalam",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  221,
+        "PeriodToDateDeathCount":  3,
+        "Population":  428962,
+        "Source":  "Covid19DataVault"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Bulgaria",
+        "CaseCount":  418,
+        "DeathCount":  57,
+        "PeriodToDateCaseCount":  386381,
+        "PeriodToDateDeathCount":  15195,
+        "Population":  7024216,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Burkina Faso",
+        "CaseCount":  15,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  13129,
+        "PeriodToDateDeathCount":  154,
+        "Population":  19751535,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Burundi",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  3477,
+        "PeriodToDateDeathCount":  6,
+        "Population":  11175378,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Cambodia",
+        "CaseCount":  618,
+        "DeathCount":  4,
+        "PeriodToDateCaseCount":  6389,
+        "PeriodToDateDeathCount":  43,
+        "Population":  16249798,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Cameroon",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  64809,
+        "PeriodToDateDeathCount":  939,
+        "Population":  25216237,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Canada",
+        "CaseCount":  8209,
+        "DeathCount":  39,
+        "PeriodToDateCaseCount":  1129371,
+        "PeriodToDateDeathCount":  23611,
+        "Population":  37058856,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Cabo Verde",
+        "CaseCount":  491,
+        "DeathCount":  3,
+        "PeriodToDateCaseCount":  20466,
+        "PeriodToDateDeathCount":  192,
+        "Population":  543767,
+        "Source":  "Covid19DataVault"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Central African Republic",
+        "CaseCount":  59,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  5787,
+        "PeriodToDateDeathCount":  75,
+        "Population":  4666377,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Chad",
+        "CaseCount":  15,
+        "DeathCount":  1,
+        "PeriodToDateCaseCount":  4706,
+        "PeriodToDateDeathCount":  169,
+        "Population":  15477751,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Chile",
+        "CaseCount":  7370,
+        "DeathCount":  122,
+        "PeriodToDateCaseCount":  1124718,
+        "PeriodToDateDeathCount":  25177,
+        "Population":  18729160,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "China",
+        "CaseCount":  41,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  102242,
+        "PeriodToDateDeathCount":  4845,
+        "Population":  1392730000,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Colombia",
+        "CaseCount":  16871,
+        "DeathCount":  397,
+        "PeriodToDateCaseCount":  2652947,
+        "PeriodToDateDeathCount":  68328,
+        "Population":  49648685,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Congo, Dem. Rep.",
+        "CaseCount":  62,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  28956,
+        "PeriodToDateDeathCount":  745,
+        "Population":  84068091,
+        "Source":  "Covid19DataVault"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Congo, Rep.",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  10084,
+        "PeriodToDateDeathCount":  139,
+        "Population":  5244363,
+        "Source":  "Covid19DataVault"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Costa Rica",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  228577,
+        "PeriodToDateDeathCount":  3071,
+        "Population":  4999441,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Cote d\u0027Ivoire",
+        "CaseCount":  41,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  45560,
+        "PeriodToDateDeathCount":  274,
+        "Population":  25069229,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Croatia",
+        "CaseCount":  1565,
+        "DeathCount":  39,
+        "PeriodToDateCaseCount":  307790,
+        "PeriodToDateDeathCount":  6562,
+        "Population":  4089400,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Cuba",
+        "CaseCount":  1037,
+        "DeathCount":  13,
+        "PeriodToDateCaseCount":  93511,
+        "PeriodToDateDeathCount":  525,
+        "Population":  11338138,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Cyprus",
+        "CaseCount":  852,
+        "DeathCount":  3,
+        "PeriodToDateCaseCount":  56259,
+        "PeriodToDateDeathCount":  291,
+        "Population":  1189265,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Denmark",
+        "CaseCount":  902,
+        "DeathCount":  3,
+        "PeriodToDateCaseCount":  243326,
+        "PeriodToDateDeathCount":  2456,
+        "Population":  5797446,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Djibouti",
+        "CaseCount":  48,
+        "DeathCount":  2,
+        "PeriodToDateCaseCount":  10460,
+        "PeriodToDateDeathCount":  116,
+        "Population":  958920,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Dominican Republic",
+        "CaseCount":  502,
+        "DeathCount":  4,
+        "PeriodToDateCaseCount":  261129,
+        "PeriodToDateDeathCount":  3418,
+        "Population":  10627165,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Ecuador",
+        "CaseCount":  2389,
+        "DeathCount":  62,
+        "PeriodToDateCaseCount":  360546,
+        "PeriodToDateDeathCount":  17703,
+        "Population":  17084357,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Egypt, Arab Rep.",
+        "CaseCount":  850,
+        "DeathCount":  44,
+        "PeriodToDateCaseCount":  216334,
+        "PeriodToDateDeathCount":  12738,
+        "Population":  98423595,
+        "Source":  "Covid19DataVault"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "El Salvador",
+        "CaseCount":  153,
+        "DeathCount":  3,
+        "PeriodToDateCaseCount":  67557,
+        "PeriodToDateDeathCount":  2075,
+        "Population":  6420744,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Equatorial Guinea",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  7259,
+        "PeriodToDateDeathCount":  106,
+        "Population":  1308974,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Eritrea",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  3491,
+        "PeriodToDateDeathCount":  10,
+        "Population":  3200000,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Estonia",
+        "CaseCount":  543,
+        "DeathCount":  10,
+        "PeriodToDateCaseCount":  117554,
+        "PeriodToDateDeathCount":  1092,
+        "Population":  1320884,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Ethiopia",
+        "CaseCount":  1792,
+        "DeathCount":  42,
+        "PeriodToDateCaseCount":  242028,
+        "PeriodToDateDeathCount":  3370,
+        "Population":  109224559,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Fiji",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  72,
+        "PeriodToDateDeathCount":  2,
+        "Population":  883483,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Finland",
+        "CaseCount":  498,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  84131,
+        "PeriodToDateDeathCount":  887,
+        "Population":  5518050,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "France",
+        "CaseCount":  29345,
+        "DeathCount":  140,
+        "PeriodToDateCaseCount":  5350521,
+        "PeriodToDateDeathCount":  100892,
+        "Population":  66987244,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Gabon",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  21858,
+        "PeriodToDateDeathCount":  133,
+        "Population":  2119275,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Gambia, The",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  5720,
+        "PeriodToDateDeathCount":  170,
+        "Population":  2280102,
+        "Source":  "Covid19DataVault"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Georgia",
+        "CaseCount":  818,
+        "DeathCount":  14,
+        "PeriodToDateCaseCount":  295358,
+        "PeriodToDateDeathCount":  3939,
+        "Population":  3731000,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Germany",
+        "CaseCount":  1217,
+        "DeathCount":  81,
+        "PeriodToDateCaseCount":  3155522,
+        "PeriodToDateDeathCount":  80052,
+        "Population":  82927922,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Ghana",
+        "CaseCount":  46,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  91709,
+        "PeriodToDateDeathCount":  771,
+        "Population":  29767108,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Greece",
+        "CaseCount":  1829,
+        "DeathCount":  65,
+        "PeriodToDateCaseCount":  315273,
+        "PeriodToDateDeathCount":  9462,
+        "Population":  10727668,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Grenada",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  155,
+        "PeriodToDateDeathCount":  1,
+        "Population":  111454,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Guatemala",
+        "CaseCount":  427,
+        "DeathCount":  31,
+        "PeriodToDateCaseCount":  212734,
+        "PeriodToDateDeathCount":  7221,
+        "Population":  17247807,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Guinea",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  21460,
+        "PeriodToDateDeathCount":  138,
+        "Population":  12414318,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Guinea-Bissau",
+        "CaseCount":  2,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  3712,
+        "PeriodToDateDeathCount":  66,
+        "Population":  1874309,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Guyana",
+        "CaseCount":  101,
+        "DeathCount":  3,
+        "PeriodToDateCaseCount":  11863,
+        "PeriodToDateDeathCount":  271,
+        "Population":  779004,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Haiti",
+        "CaseCount":  33,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  12918,
+        "PeriodToDateDeathCount":  251,
+        "Population":  11123176,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Honduras",
+        "CaseCount":  676,
+        "DeathCount":  3,
+        "PeriodToDateCaseCount":  200935,
+        "PeriodToDateDeathCount":  4957,
+        "Population":  9587522,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Hungary",
+        "CaseCount":  3706,
+        "DeathCount":  205,
+        "PeriodToDateCaseCount":  750508,
+        "PeriodToDateDeathCount":  25184,
+        "Population":  9768785,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Iceland",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  6286,
+        "PeriodToDateDeathCount":  29,
+        "Population":  353574,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "India",
+        "CaseCount":  273802,
+        "DeathCount":  1619,
+        "PeriodToDateCaseCount":  15061805,
+        "PeriodToDateDeathCount":  178769,
+        "Population":  1352617328,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Indonesia",
+        "CaseCount":  4585,
+        "DeathCount":  96,
+        "PeriodToDateCaseCount":  1604348,
+        "PeriodToDateDeathCount":  43424,
+        "Population":  267663435,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Iran, Islamic Rep.",
+        "CaseCount":  21644,
+        "DeathCount":  405,
+        "PeriodToDateCaseCount":  2237089,
+        "PeriodToDateDeathCount":  66732,
+        "Population":  81800269,
+        "Source":  "Covid19DataVault"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Iraq",
+        "CaseCount":  6188,
+        "DeathCount":  33,
+        "PeriodToDateCaseCount":  977175,
+        "PeriodToDateDeathCount":  14981,
+        "Population":  38433600,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Ireland",
+        "CaseCount":  270,
+        "DeathCount":  1,
+        "PeriodToDateCaseCount":  243508,
+        "PeriodToDateDeathCount":  4836,
+        "Population":  4853506,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Israel",
+        "CaseCount":  164,
+        "DeathCount":  4,
+        "PeriodToDateCaseCount":  837047,
+        "PeriodToDateDeathCount":  6335,
+        "Population":  8883800,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Italy",
+        "CaseCount":  12688,
+        "DeathCount":  251,
+        "PeriodToDateCaseCount":  3870131,
+        "PeriodToDateDeathCount":  116927,
+        "Population":  60431283,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Jamaica",
+        "CaseCount":  206,
+        "DeathCount":  2,
+        "PeriodToDateCaseCount":  43890,
+        "PeriodToDateDeathCount":  723,
+        "Population":  2934855,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Japan",
+        "CaseCount":  4111,
+        "DeathCount":  17,
+        "PeriodToDateCaseCount":  535220,
+        "PeriodToDateDeathCount":  9610,
+        "Population":  126529100,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Jordan",
+        "CaseCount":  2507,
+        "DeathCount":  68,
+        "PeriodToDateCaseCount":  685973,
+        "PeriodToDateDeathCount":  8246,
+        "Population":  9956011,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Kazakhstan",
+        "CaseCount":  2835,
+        "DeathCount":  3,
+        "PeriodToDateCaseCount":  341599,
+        "PeriodToDateDeathCount":  3291,
+        "Population":  18276499,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Kenya",
+        "CaseCount":  366,
+        "DeathCount":  18,
+        "PeriodToDateCaseCount":  151653,
+        "PeriodToDateDeathCount":  2481,
+        "Population":  51393010,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Kosovo",
+        "CaseCount":  862,
+        "DeathCount":  19,
+        "PeriodToDateCaseCount":  101191,
+        "PeriodToDateDeathCount":  2080,
+        "Population":  1845300,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Kuwait",
+        "CaseCount":  1127,
+        "DeathCount":  8,
+        "PeriodToDateCaseCount":  256987,
+        "PeriodToDateDeathCount":  1448,
+        "Population":  4137309,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Kyrgyz Republic",
+        "CaseCount":  244,
+        "DeathCount":  3,
+        "PeriodToDateCaseCount":  91883,
+        "PeriodToDateDeathCount":  1549,
+        "Population":  6315800,
+        "Source":  "Covid19DataVault"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Latvia",
+        "CaseCount":  337,
+        "DeathCount":  5,
+        "PeriodToDateCaseCount":  111334,
+        "PeriodToDateDeathCount":  2053,
+        "Population":  1926542,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Lebanon",
+        "CaseCount":  1900,
+        "DeathCount":  39,
+        "PeriodToDateCaseCount":  510403,
+        "PeriodToDateDeathCount":  6925,
+        "Population":  6848925,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Liberia",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  2042,
+        "PeriodToDateDeathCount":  85,
+        "Population":  4818977,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Libya",
+        "CaseCount":  749,
+        "DeathCount":  14,
+        "PeriodToDateCaseCount":  171880,
+        "PeriodToDateDeathCount":  2896,
+        "Population":  6678567,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Liechtenstein",
+        "CaseCount":  9,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  2813,
+        "PeriodToDateDeathCount":  56,
+        "Population":  37910,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Lithuania",
+        "CaseCount":  802,
+        "DeathCount":  9,
+        "PeriodToDateCaseCount":  233631,
+        "PeriodToDateDeathCount":  3760,
+        "Population":  2789533,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Luxembourg",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  64746,
+        "PeriodToDateDeathCount":  785,
+        "Population":  607728,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "North Macedonia",
+        "CaseCount":  361,
+        "DeathCount":  24,
+        "PeriodToDateCaseCount":  147094,
+        "PeriodToDateDeathCount":  4443,
+        "Population":  2082958,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Madagascar",
+        "CaseCount":  588,
+        "DeathCount":  4,
+        "PeriodToDateCaseCount":  32205,
+        "PeriodToDateDeathCount":  542,
+        "Population":  26262368,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Malawi",
+        "CaseCount":  22,
+        "DeathCount":  2,
+        "PeriodToDateCaseCount":  33941,
+        "PeriodToDateDeathCount":  1138,
+        "Population":  18143315,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Malaysia",
+        "CaseCount":  2195,
+        "DeathCount":  8,
+        "PeriodToDateCaseCount":  375054,
+        "PeriodToDateDeathCount":  1378,
+        "Population":  31528585,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Maldives",
+        "CaseCount":  203,
+        "DeathCount":  1,
+        "PeriodToDateCaseCount":  26348,
+        "PeriodToDateDeathCount":  70,
+        "Population":  515696,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Mali",
+        "CaseCount":  90,
+        "DeathCount":  4,
+        "PeriodToDateCaseCount":  13070,
+        "PeriodToDateDeathCount":  433,
+        "Population":  19077690,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Malta",
+        "CaseCount":  39,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  29966,
+        "PeriodToDateDeathCount":  409,
+        "Population":  483530,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Mauritania",
+        "CaseCount":  8,
+        "DeathCount":  1,
+        "PeriodToDateCaseCount":  18129,
+        "PeriodToDateDeathCount":  453,
+        "Population":  4403319,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Mauritius",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  1203,
+        "PeriodToDateDeathCount":  15,
+        "Population":  1265303,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Mexico",
+        "CaseCount":  1506,
+        "DeathCount":  111,
+        "PeriodToDateCaseCount":  2305602,
+        "PeriodToDateDeathCount":  212339,
+        "Population":  126190788,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Moldova",
+        "CaseCount":  403,
+        "DeathCount":  23,
+        "PeriodToDateCaseCount":  245897,
+        "PeriodToDateDeathCount":  5571,
+        "Population":  3545883,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Monaco",
+        "CaseCount":  4,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  2399,
+        "PeriodToDateDeathCount":  31,
+        "Population":  38682,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Mongolia",
+        "CaseCount":  889,
+        "DeathCount":  5,
+        "PeriodToDateCaseCount":  22884,
+        "PeriodToDateDeathCount":  49,
+        "Population":  3170208,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Montenegro",
+        "CaseCount":  174,
+        "DeathCount":  2,
+        "PeriodToDateCaseCount":  95551,
+        "PeriodToDateDeathCount":  1429,
+        "Population":  622345,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Morocco",
+        "CaseCount":  364,
+        "DeathCount":  1,
+        "PeriodToDateCaseCount":  505811,
+        "PeriodToDateDeathCount":  8945,
+        "Population":  36029138,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Mozambique",
+        "CaseCount":  69,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  69203,
+        "PeriodToDateDeathCount":  798,
+        "Population":  29495962,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Myanmar",
+        "CaseCount":  9,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  142628,
+        "PeriodToDateDeathCount":  3206,
+        "Population":  53708395,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Namibia",
+        "CaseCount":  140,
+        "DeathCount":  2,
+        "PeriodToDateCaseCount":  46655,
+        "PeriodToDateDeathCount":  604,
+        "Population":  2448255,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Nepal",
+        "CaseCount":  1015,
+        "DeathCount":  8,
+        "PeriodToDateCaseCount":  284673,
+        "PeriodToDateDeathCount":  3083,
+        "Population":  28087871,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Netherlands",
+        "CaseCount":  8569,
+        "DeathCount":  13,
+        "PeriodToDateCaseCount":  1428440,
+        "PeriodToDateDeathCount":  17127,
+        "Population":  17231017,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "New Zealand",
+        "CaseCount":  1,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  2596,
+        "PeriodToDateDeathCount":  26,
+        "Population":  4885500,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Nicaragua",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  6778,
+        "PeriodToDateDeathCount":  180,
+        "Population":  6465513,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Niger",
+        "CaseCount":  15,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  5131,
+        "PeriodToDateDeathCount":  190,
+        "Population":  22442948,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Nigeria",
+        "CaseCount":  26,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  164233,
+        "PeriodToDateDeathCount":  2061,
+        "Population":  195874740,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Norway",
+        "CaseCount":  366,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  107510,
+        "PeriodToDateDeathCount":  708,
+        "Population":  5314336,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Oman",
+        "CaseCount":  3363,
+        "DeathCount":  57,
+        "PeriodToDateCaseCount":  180031,
+        "PeriodToDateDeathCount":  1878,
+        "Population":  4829483,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Pakistan",
+        "CaseCount":  5152,
+        "DeathCount":  73,
+        "PeriodToDateCaseCount":  761437,
+        "PeriodToDateDeathCount":  16316,
+        "Population":  212215030,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "West Bank and Gaza",
+        "CaseCount":  988,
+        "DeathCount":  34,
+        "PeriodToDateCaseCount":  280741,
+        "PeriodToDateDeathCount":  3017,
+        "Population":  4569087,
+        "Source":  "Covid19DataVault"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Panama",
+        "CaseCount":  244,
+        "DeathCount":  1,
+        "PeriodToDateCaseCount":  360841,
+        "PeriodToDateDeathCount":  6188,
+        "Population":  4176873,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Papua New Guinea",
+        "CaseCount":  395,
+        "DeathCount":  7,
+        "PeriodToDateCaseCount":  9738,
+        "PeriodToDateDeathCount":  89,
+        "Population":  8606316,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Paraguay",
+        "CaseCount":  1801,
+        "DeathCount":  62,
+        "PeriodToDateCaseCount":  250165,
+        "PeriodToDateDeathCount":  5313,
+        "Population":  6956071,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Peru",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  1697626,
+        "PeriodToDateDeathCount":  56797,
+        "Population":  31989256,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Philippines",
+        "CaseCount":  10081,
+        "DeathCount":  150,
+        "PeriodToDateCaseCount":  936133,
+        "PeriodToDateDeathCount":  15960,
+        "Population":  106651922,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Poland",
+        "CaseCount":  12151,
+        "DeathCount":  207,
+        "PeriodToDateCaseCount":  2688025,
+        "PeriodToDateDeathCount":  62032,
+        "Population":  37978548,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Portugal",
+        "CaseCount":  441,
+        "DeathCount":  3,
+        "PeriodToDateCaseCount":  831001,
+        "PeriodToDateDeathCount":  16945,
+        "Population":  10281762,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Qatar",
+        "CaseCount":  823,
+        "DeathCount":  6,
+        "PeriodToDateCaseCount":  196580,
+        "PeriodToDateDeathCount":  382,
+        "Population":  2781677,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Romania",
+        "CaseCount":  2265,
+        "DeathCount":  160,
+        "PeriodToDateCaseCount":  1029304,
+        "PeriodToDateDeathCount":  26232,
+        "Population":  19473936,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Russian Federation",
+        "CaseCount":  8507,
+        "DeathCount":  383,
+        "PeriodToDateCaseCount":  4649044,
+        "PeriodToDateDeathCount":  103834,
+        "Population":  144478050,
+        "Source":  "Covid19DataVault"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Rwanda",
+        "CaseCount":  22,
+        "DeathCount":  3,
+        "PeriodToDateCaseCount":  23888,
+        "PeriodToDateDeathCount":  325,
+        "Population":  12301939,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "St. Lucia",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  4401,
+        "PeriodToDateDeathCount":  67,
+        "Population":  181889,
+        "Source":  "Covid19DataVault"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "St. Vincent and the Grenadines",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  1819,
+        "PeriodToDateDeathCount":  10,
+        "Population":  110210,
+        "Source":  "Covid19DataVault"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "San Marino",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  5026,
+        "PeriodToDateDeathCount":  87,
+        "Population":  33785,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Sao Tome and Principe",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  2275,
+        "PeriodToDateDeathCount":  35,
+        "Population":  211028,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Saudi Arabia",
+        "CaseCount":  916,
+        "DeathCount":  13,
+        "PeriodToDateCaseCount":  404970,
+        "PeriodToDateDeathCount":  6823,
+        "Population":  33699947,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Senegal",
+        "CaseCount":  51,
+        "DeathCount":  1,
+        "PeriodToDateCaseCount":  39782,
+        "PeriodToDateDeathCount":  1091,
+        "Population":  15854360,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Serbia",
+        "CaseCount":  2069,
+        "DeathCount":  37,
+        "PeriodToDateCaseCount":  662368,
+        "PeriodToDateDeathCount":  5991,
+        "Population":  6982084,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Seychelles",
+        "CaseCount":  47,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  4922,
+        "PeriodToDateDeathCount":  25,
+        "Population":  96762,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Sierra Leone",
+        "CaseCount":  8,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  4028,
+        "PeriodToDateDeathCount":  79,
+        "Population":  7650154,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Singapore",
+        "CaseCount":  23,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  60831,
+        "PeriodToDateDeathCount":  30,
+        "Population":  5638676,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Slovak Republic",
+        "CaseCount":  638,
+        "DeathCount":  63,
+        "PeriodToDateCaseCount":  375974,
+        "PeriodToDateDeathCount":  11106,
+        "Population":  5447011,
+        "Source":  "Covid19DataVault"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Slovenia",
+        "CaseCount":  478,
+        "DeathCount":  6,
+        "PeriodToDateCaseCount":  232071,
+        "PeriodToDateDeathCount":  4159,
+        "Population":  2067372,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Somalia",
+        "CaseCount":  242,
+        "DeathCount":  14,
+        "PeriodToDateCaseCount":  13079,
+        "PeriodToDateDeathCount":  670,
+        "Population":  15008154,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "South Africa",
+        "CaseCount":  1089,
+        "DeathCount":  25,
+        "PeriodToDateCaseCount":  1566769,
+        "PeriodToDateDeathCount":  53736,
+        "Population":  57779622,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Korea, Rep.",
+        "CaseCount":  531,
+        "DeathCount":  4,
+        "PeriodToDateCaseCount":  114646,
+        "PeriodToDateDeathCount":  1801,
+        "Population":  51635256,
+        "Source":  "Covid19DataVault"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "South Sudan",
+        "CaseCount":  41,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  10473,
+        "PeriodToDateDeathCount":  114,
+        "Population":  10975920,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Spain",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  3407283,
+        "PeriodToDateDeathCount":  76981,
+        "Population":  46723749,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Sri Lanka",
+        "CaseCount":  442,
+        "DeathCount":  3,
+        "PeriodToDateCaseCount":  96796,
+        "PeriodToDateDeathCount":  618,
+        "Population":  21670000,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Sudan",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  33022,
+        "PeriodToDateDeathCount":  2208,
+        "Population":  41801533,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Suriname",
+        "CaseCount":  36,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  9581,
+        "PeriodToDateDeathCount":  187,
+        "Population":  575991,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Eswatini",
+        "CaseCount":  2,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  18417,
+        "PeriodToDateDeathCount":  671,
+        "Population":  1136191,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Sweden",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  900138,
+        "PeriodToDateDeathCount":  13788,
+        "Population":  10183175,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Switzerland",
+        "CaseCount":  0,
+        "DeathCount":  3,
+        "PeriodToDateCaseCount":  632399,
+        "PeriodToDateDeathCount":  10508,
+        "Population":  8516543,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Syrian Arab Republic",
+        "CaseCount":  138,
+        "DeathCount":  9,
+        "PeriodToDateCaseCount":  21142,
+        "PeriodToDateDeathCount":  1446,
+        "Population":  16906283,
+        "Source":  "Covid19DataVault"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Taiwan",
+        "CaseCount":  1,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  1073,
+        "PeriodToDateDeathCount":  11,
+        "Population":  23590000,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Tanzania",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  509,
+        "PeriodToDateDeathCount":  21,
+        "Population":  56318348,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Thailand",
+        "CaseCount":  1767,
+        "DeathCount":  2,
+        "PeriodToDateCaseCount":  42352,
+        "PeriodToDateDeathCount":  101,
+        "Population":  69428524,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Timor-Leste",
+        "CaseCount":  70,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  1306,
+        "PeriodToDateDeathCount":  2,
+        "Population":  1267972,
+        "Source":  "Covid19DataVault"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Togo",
+        "CaseCount":  37,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  12533,
+        "PeriodToDateDeathCount":  119,
+        "Population":  7889094,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Trinidad and Tobago",
+        "CaseCount":  134,
+        "DeathCount":  3,
+        "PeriodToDateCaseCount":  8940,
+        "PeriodToDateDeathCount":  153,
+        "Population":  1389858,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Tunisia",
+        "CaseCount":  1514,
+        "DeathCount":  66,
+        "PeriodToDateCaseCount":  285490,
+        "PeriodToDateDeathCount":  9783,
+        "Population":  11565204,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Turkey",
+        "CaseCount":  55802,
+        "DeathCount":  318,
+        "PeriodToDateCaseCount":  4268447,
+        "PeriodToDateDeathCount":  35926,
+        "Population":  82319724,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Uganda",
+        "CaseCount":  38,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  41378,
+        "PeriodToDateDeathCount":  338,
+        "Population":  42723139,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Ukraine",
+        "CaseCount":  10407,
+        "DeathCount":  256,
+        "PeriodToDateCaseCount":  1999567,
+        "PeriodToDateDeathCount":  41534,
+        "Population":  44622516,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "United Arab Emirates",
+        "CaseCount":  1930,
+        "DeathCount":  4,
+        "PeriodToDateCaseCount":  497154,
+        "PeriodToDateDeathCount":  1554,
+        "Population":  9630959,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "United Kingdom",
+        "CaseCount":  1884,
+        "DeathCount":  10,
+        "PeriodToDateCaseCount":  4403060,
+        "PeriodToDateDeathCount":  127518,
+        "Population":  66488991,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "United States",
+        "CaseCount":  42018,
+        "DeathCount":  313,
+        "PeriodToDateCaseCount":  31670031,
+        "PeriodToDateDeathCount":  567217,
+        "Population":  327167434,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Uruguay",
+        "CaseCount":  2344,
+        "DeathCount":  60,
+        "PeriodToDateCaseCount":  164744,
+        "PeriodToDateDeathCount":  1908,
+        "Population":  3449299,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Uzbekistan",
+        "CaseCount":  342,
+        "DeathCount":  2,
+        "PeriodToDateCaseCount":  86680,
+        "PeriodToDateDeathCount":  638,
+        "Population":  32955400,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Venezuela, RB",
+        "CaseCount":  1287,
+        "DeathCount":  17,
+        "PeriodToDateCaseCount":  183190,
+        "PeriodToDateDeathCount":  1905,
+        "Population":  28870195,
+        "Source":  "Covid19DataVault"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Vietnam",
+        "CaseCount":  4,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  2785,
+        "PeriodToDateDeathCount":  35,
+        "Population":  95540395,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Yemen, Rep.",
+        "CaseCount":  42,
+        "DeathCount":  7,
+        "PeriodToDateCaseCount":  5812,
+        "PeriodToDateDeathCount":  1126,
+        "Population":  28498687,
+        "Source":  "Covid19DataVault"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Zambia",
+        "CaseCount":  74,
+        "DeathCount":  1,
+        "PeriodToDateCaseCount":  90918,
+        "PeriodToDateDeathCount":  1235,
+        "Population":  17351822,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Zimbabwe",
+        "CaseCount":  52,
+        "DeathCount":  1,
+        "PeriodToDateCaseCount":  37751,
+        "PeriodToDateDeathCount":  1553,
+        "Population":  14439018,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Comoros",
+        "CaseCount":  4,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  3819,
+        "PeriodToDateDeathCount":  146,
+        "Population":  832322,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Lesotho",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  10709,
+        "PeriodToDateDeathCount":  315,
+        "Population":  2108132,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "MonitorDate":  "2021-04-18 00:00:00.0000000",
+        "Country":  "Tajikistan",
+        "CaseCount":  0,
+        "DeathCount":  0,
+        "PeriodToDateCaseCount":  13308,
+        "PeriodToDateDeathCount":  90,
+        "Population":  9100837,
+        "Source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    }
+]
