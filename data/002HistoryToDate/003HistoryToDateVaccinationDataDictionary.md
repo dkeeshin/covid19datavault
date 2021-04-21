@@ -7,6 +7,7 @@ HISTORY TO DATE COUNTRY VACCINATION DATA
 Description:  All vaccination data to date sourced from the Our World In Data at  https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv 
  and yearly US Census data at  https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/counties/totals/.. CSV format. Files located at: 
 
+https://github.com/dkeeshin/covid19datavault/tree/master/data/002HistoryToDate
 
 | ColumnName | Description |
 | ---------- | ----------- |
