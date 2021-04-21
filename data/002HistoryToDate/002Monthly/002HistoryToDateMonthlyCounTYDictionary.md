@@ -1,13 +1,14 @@
-COVID19DataVault
-Data Dictionary for CSV and JSON Files.
-2021-04-21
+HISTORICAL US COUNTY DATA
 
-DAILY US COUNTY DATA
+Description:  All US county daily case and death totals to date.  Sourced from the NY times github site located at https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv and yearly US Census data. (web site).  CSV format only. Data is partitioned by months to accommodate GITHUB 25 MB limit per file. Files located at:
+https://github.com/dkeeshin/covid19datavault/tree/master/data/002HistoryToDate/002Monthly
 
-Description:  Most current daily US county case and death totals sourced from the NY times github site located at https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv and yearly US Census data. (web site). Two files generated daily. One CSV the other JSON. Files located at: 
+Note: only the current year-month data is updated nightly.  All previous months need to be loaded only once.
+Filenames reflect the year and month daily data is part of.  Date format is Year-Month (YYYYMM). Sample file name and format:
 
-https://github.com/dkeeshin/covid19datavault/tree/master/data/001Daily/001DailyUSCounTY.csv
-https://github.com/dkeeshin/covid19datavault/tree/master/data/001Daily/001DailyUSCounTY.json
+002MonthlyUSCounTY202001.csv
+
+Use Case: Use this data to initialize a new database and bring reporting tables up to date.  After that fetch the current daily data totals.
 
 
 | ColumnName | Description |
@@ -27,4 +28,3 @@ https://github.com/dkeeshin/covid19datavault/tree/master/data/001Daily/001DailyU
 | PopulationYear | Most current US Census population year |
 | Population | County population per US Census |
 | Source | kDS source identifier, 'NYTIMES-USCENSUS' |
-
