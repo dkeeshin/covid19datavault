@@ -4,10 +4,8 @@ Data Dictionary for CSV and JSON Files.
 
 HISTORY TO DATE COUNTRY VACCINATION DATA
 
-Description:  Most current daily US county case and death totals sourced from the NY times github site located at https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv and yearly US Census data. (web site). Two files generated daily. One CSV the other JSON. Files located at: 
-
-https://github.com/dkeeshin/covid19datavault/tree/master/data/001Daily/001DailyUSCounTY.csv
-https://github.com/dkeeshin/covid19datavault/tree/master/data/001Daily/001DailyUSCounTY.json
+Description:  All vaccination data to date sourced from the Our World In Data at  https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv 
+ and yearly US Census data at  https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/counties/totals/.. CSV format. Files located at: 
 
 
 | ColumnName | Description |
