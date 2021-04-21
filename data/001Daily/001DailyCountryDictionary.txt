@@ -1,6 +1,6 @@
 COVID19DataVault
 Data Dictionary for CSV and JSON Files.
-2021-04-20
+2021-04-21
 
 Historical US County Data
 
