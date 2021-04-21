@@ -10,7 +10,7 @@ Files located at:
 https://github.com/dkeeshin/covid19datavault/tree/master/data/001Daily/001DailyUSCounTY.csv
 https://github.com/dkeeshin/covid19datavault/tree/master/data/001Daily/001DailyUSCounTY.json
 
-ColumnName	 					Description 
+ColumnName	 				Description 
 	
 MonitorDate  					Monitor date is the date data was processed by KDS in local time. Now done daily at 7:00PM US Central time, 12:00 AM UTC
 CounTYName   					County name, spelling checked and updated by kDS
