@@ -2,7 +2,7 @@ COVID19DataVault
 Data Dictionary for CSV and JSON Files.
 2021-04-21
 
-HISTORY TO DATE COUNTRY DATA
+__HISTORY TO DATE COUNTRY DATA__
 
 Description:  All case and death counts to date sourced from the Our World In Data at  https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv
 CSV format. File located at: 
