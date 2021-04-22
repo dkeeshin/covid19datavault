@@ -9,8 +9,8 @@ https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv a
 at https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/counties/totals/.
 
 CSV format only.  Data is partitioned by months to accommodate GITHUB 25 MB limit per file.    Files located at:
-https://github.com/dkeeshin/covid19datavault/tree/master/data/002HistoryToDate/002Monthly . File name format
-reflects the year and month daily data is part of.  Date format is Year-Month (YYYYMM).  For example the file name for April 2021 data is:
+https://github.com/dkeeshin/covid19datavault/tree/master/data/002HistoryToDate/002Monthly . File name format reflects the year and month daily data is part of.  Date format is Year-Month (YYYYMM).  April 2021, the entire U.S. counTY data set is around a million rows. County is spelled CounTY to differentiate it from the Country data.
+For example the file name for April 2021 data is:
 
 002MonthlyUSCounTY202104.csv
 
