@@ -3,7 +3,7 @@ __Data Map for CSV and JSON Files__
 __2021-04-22__
 
 
-__DATA MAP FILE DESCRIPTIONS__
+__DATA MAP FILE DESCRIPTION__
  
 https://github.com/dkeeshin/covid19datavault/blob/master/data/001Daily/001DAILY_DATA_MAP.md
 contains data maps describing all CSV and JSON data files generated daily. 
