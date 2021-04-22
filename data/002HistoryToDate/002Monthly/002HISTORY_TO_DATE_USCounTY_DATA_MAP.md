@@ -1,4 +1,8 @@
-HISTORICAL US COUNTY DATA
+__COVID19DataVault__
+__Data Map for CSV and JSON Files__
+__2021-04-22__
+
+__HISTORICAL US COUNTY DATA__
 
 Description:  All US county daily case and death totals to date.  Sourced from the NY times github site at  
 https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv and yearly US Census data 

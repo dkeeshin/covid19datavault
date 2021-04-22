@@ -1,6 +1,6 @@
-COVID19DataVault
-Data Dictionary for CSV and JSON Files.
-2021-04-21
+__COVID19DataVault__
+__Data Map for CSV and JSON Files__
+__2021-04-22__
 
 __HISTORY TO DATE COUNTRY DATA__
 

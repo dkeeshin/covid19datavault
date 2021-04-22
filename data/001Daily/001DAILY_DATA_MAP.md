@@ -1,8 +1,8 @@
-COVID19DataVault
-Data Dictionary for CSV and JSON Files.
-2021-04-21
+__COVID19DataVault__
+__Data Map for CSV and JSON Files__
+__2021-04-22__
 
-DAILY US COUNTY DATA
+__DAILY US COUNTY DATA__
 
 Description:  Most current daily US county case and death totals sourced from the NY times github site located at https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv and yearly US Census data at  https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/counties/totals/. Two files generated daily. One CSV the other JSON. Files located at
 
@@ -29,7 +29,7 @@ https://github.com/dkeeshin/covid19datavault/tree/master/data/001Daily/001DailyU
 | Population | County population per US Census |
 | Source | kDS source identifier, 'NYTIMES-USCENSUS' |
 
-DAILY COUNTRY DATA
+__DAILY COUNTRY DATA__
 
 Description:  Most current case and death counts to date sourced from the Our World In Data at  https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv
 CSV format. File located at: 
@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/dkeeshin/covid19datavault/master/data/002Histo
 | CountryCode | Three letter Iso Code|
 | Source | https://covid.ourworldindata.org/data/ecdc/full_data.csv |
 
-DAILY COUNTRY VACCINATION DATA
+__DAILY COUNTRY VACCINATION DATA__
 
 Description:  Most current vaccination data to date sourced from the Our World In Data at  https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv 
 CSV format. File located at: 

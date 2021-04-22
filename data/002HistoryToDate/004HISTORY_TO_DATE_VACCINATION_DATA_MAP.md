@@ -1,8 +1,8 @@
-COVID19DataVault
-Data Dictionary for CSV and JSON Files.
-2021-04-21
+__COVID19DataVault__
+__Data Map for CSV and JSON Files__
+__2021-04-22__
 
-HISTORY TO DATE COUNTRY VACCINATION DATA
+__HISTORY TO DATE COUNTRY VACCINATION DATA__
 
 Description:  All vaccination data to date sourced from the Our World In Data at  https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv 
 CSV format. File located at: 
