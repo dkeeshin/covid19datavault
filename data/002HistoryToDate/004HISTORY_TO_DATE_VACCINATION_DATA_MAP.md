@@ -24,5 +24,5 @@ https://raw.githubusercontent.com/dkeeshin/covid19datavault/master/data/002Histo
 | people_vaccinated_per_hundred |  people_vaccinated per 100 people in the total population of the country. |
 | people_fully_vaccinated |  total number of people who received all doses prescribed by the vaccination protocol. If a person receives the first dose of a 2-dose vaccine, this metric stays the same. If they receive the second dose, the metric goes up by 1. |
 | people_fully_vaccinated_per_hundred |  people_fully_vaccinated per 100 people in the total population of the country. |
-| Source | data source location assigned by kDS |
+| Source | https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv |
 
