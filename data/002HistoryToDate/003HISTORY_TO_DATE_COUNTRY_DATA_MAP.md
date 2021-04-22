@@ -7,7 +7,7 @@ __HISTORY TO DATE COUNTRY DATA__
 Description:  All case and death counts to date sourced from the Our World In Data at  https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv
 CSV format. File located at: 
 
-https://raw.githubusercontent.com/dkeeshin/covid19datavault/master/data/002HistoryToDate/004HistoryToDateCountryVaccination.csv
+https://raw.githubusercontent.com/dkeeshin/covid19datavault/master/data/002HistoryToDate/003HistoryToDateCountry.csv
 
 | ColumnName | Description |
 | ---------- | ----------- |
