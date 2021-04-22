@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/dkeeshin/covid19datavault/master/data/002Histo
 | PreviousPeriodToDateCaseCount | Previous monitor date case count maintained by kDS |
 | Population | County population|
 | CountryCode | Three letter Iso Code|
-| Source | https://covid.ourworldindata.org/data/ecdc/full_data.csv |
+| Source | https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv|
 
 __DAILY COUNTRY VACCINATION DATA__
 
