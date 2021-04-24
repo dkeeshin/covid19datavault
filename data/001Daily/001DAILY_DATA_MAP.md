@@ -36,18 +36,9 @@ CSV format. File located at:
 
 https://raw.githubusercontent.com/dkeeshin/covid19datavault/master/data/002HistoryToDate/003HistoryToDateCountry.csv
 
-| ColumnName | Description |
-| ---------- | ----------- |
-| MonitorDate | Monitor date is the date data was processed by KDS. |
-| Country | Country name, spelling checked and updated by kDSStateName|
-| CaseCount | Number of daily cases |
-| DeathCount | Number of daily deaths  |
-| PeriodToDateCaseCount | History to Date Total case count |
-| PeriodToDateDeathCount | History to Date Total death count |
-| PreviousPeriodToDateCaseCount | Previous monitor date case count maintained by kDS |
-| Population | County population|
-| CountryCode | Three letter Iso Code|
-| Source | https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv|
+The data map for this data is located
+
+https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-codebook.csv
 
 __DAILY COUNTRY VACCINATION DATA__
 
