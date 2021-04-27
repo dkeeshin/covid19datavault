@@ -12,22 +12,22 @@ https://github.com/dkeeshin/covid19datavault/tree/master/data/001Daily/001DailyU
 
 | ColumnName | Description |
 | ---------- | ----------- |
-| MonitorDate | Monitor date is the date data was processed by KDS. |
-| CounTYName | County name, spelling checked and updated by kDS |  
-| StateName| Name of state county is located. |
-| Region | Region of the US per US Census data, assigned by kDS |
-| SubRegion | SubRegion of the US per US Census data, assigned by kDS |
-| FIPS | FIPS number |
-| Latitude | Latitude per US Cesnsus data, assigned by kDS |
-| Longitude | Longitude per US Cesnsus, assigned by kDS |
-| PeriodToDateCaseCount | History to Date Total case count |
-| PeriodToDateDeathCount | History to Date Total death count |
-| PreviousPeriodToDateCaseCount | Previous monitor date case count maintained by kDS |
-| PreviousPeriodToDateDeathCount | Previous monitor date death count, maintained by kDS |
-| PreviousPeriodToDate | Previous monitor date used for detecting gaps |
-| PopulationYear | Most current US Census population year |
-| Population | County population per US Census |
-| Source | kDS source identifier, 'NYTIMES-USCENSUS' |
+| monitor_date | Monitor date is the date data was processed by KDS. |
+| county | County name, spelling checked and updated by kDS |  
+| state_name| Name of state county is located. |
+| region | Region of the US per US Census data, assigned by kDS |
+| subregion | SubRegion of the US per US Census data, assigned by kDS |
+| fips | FIPS number |
+| latitude | Latitude per US Cesnsus data, assigned by kDS |
+| longitude | Longitude per US Cesnsus, assigned by kDS |
+| case_count_to_date | History to Date Total case count |
+| death_count_to_date | History to Date Total death count |
+| previous_case_count_to_date | Previous monitor date case count maintained by kDS |
+| previous_death_count_to_date | Previous monitor date death count, maintained by kDS |
+| previous_monitor_date | Previous monitor date used for detecting gaps |
+| population_year | Most current US Census population year |
+| population | County population per US Census |
+| source | kDS source identifier, 'NYTIMES-USCENSUS' |
 
 __DAILY COUNTRY DATA__
 
@@ -49,7 +49,7 @@ https://raw.githubusercontent.com/dkeeshin/covid19datavault/master/data/002Histo
 
 | ColumnName | Description |
 | ---------- | ----------- |
-| CollectionDate | date data was collected, assigned by kDS|
+| collection_date | date data was collected, assigned by kDS|
 | location |  name of the country (or region within a country). |
 | iso_code |  ISO 3166-1 alpha-3 – three-letter country codes. |
 | date |  date of the observation. |
@@ -62,6 +62,6 @@ https://raw.githubusercontent.com/dkeeshin/covid19datavault/master/data/002Histo
 | people_vaccinated_per_hundred |  people_vaccinated per 100 people in the total population of the country. |
 | people_fully_vaccinated |  total number of people who received all doses prescribed by the vaccination protocol. If a person receives the first dose of a 2-dose vaccine, this metric stays the same. If they receive the second dose, the metric goes up by 1. |
 | people_fully_vaccinated_per_hundred |  people_fully_vaccinated per 100 people in the total population of the country. |
-| Source | https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv |
+| source | https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv |
 
 
