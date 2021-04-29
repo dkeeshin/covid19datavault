@@ -1,11 +1,11 @@
 __COVID19DataVault__
 __Data Map for CSV and JSON Files__
-__2021-04-22__
+__2021-04-29__
 
 __HISTORY TO DATE COUNTRY VACCINATION DATA__
 
 Description:  All vaccination data to date sourced from the Our World In Data at  https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv 
-CSV format. File located at: 
+CSV format. kDS version of the file is located here: 
 
 https://raw.githubusercontent.com/dkeeshin/covid19datavault/master/data/002HistoryToDate/004HistoryToDateCountryVaccination.csv
 
@@ -24,5 +24,5 @@ https://raw.githubusercontent.com/dkeeshin/covid19datavault/master/data/002Histo
 | people_vaccinated_per_hundred |  people_vaccinated per 100 people in the total population of the country. |
 | people_fully_vaccinated |  total number of people who received all doses prescribed by the vaccination protocol. If a person receives the first dose of a 2-dose vaccine, this metric stays the same. If they receive the second dose, the metric goes up by 1. |
 | people_fully_vaccinated_per_hundred |  people_fully_vaccinated per 100 people in the total population of the country. |
-| Source | https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv |
+| source | https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv |
 
