@@ -12,7 +12,7 @@ Also, case_count_to_date and previous_case_count_to_date are tallies of the ince
 
 https://github.com/dkeeshin/covid19datavault/tree/master/data/002HistoryToDate/002MonthlyUSCounTY
 
-You can tell what each year-month file contains by the year-month combination at the end of the file name.  For example,  the file for April 2021 data looks like this: 
+You can tell what each year-month file contains by the year-month combination at the end of the file name.  For example,  the file for April 2021 the file name looks like this: 
 
 002MonthlyUSCounTY202104.csv
 
