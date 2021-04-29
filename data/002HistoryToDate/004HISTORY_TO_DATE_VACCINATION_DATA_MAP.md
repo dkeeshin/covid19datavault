@@ -11,7 +11,7 @@ https://raw.githubusercontent.com/dkeeshin/covid19datavault/master/data/002Histo
 
 | ColumnName | Description |
 | ---------- | ----------- |
-| CollectionDate | date data was collected, assigned by kDS|
+| collection_date | date data was collected, assigned by kDS|
 | location |  name of the country (or region within a country). |
 | iso_code |  ISO 3166-1 alpha-3 – three-letter country codes. |
 | date |  date of the observation. |
