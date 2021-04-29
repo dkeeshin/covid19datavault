@@ -6,8 +6,7 @@ __DAILY US COUNTY DATA__
 
 Description:  Data to date US county case and death totals sourced from the NY times github site located at https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv and yearly US Census data at  https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/counties/totals/. 
 
-kDS version of this data is stored in CSV files partitioned by month. Current year-month file is updated nightly. No changes are made to previous months.  
-Additionally,  the data is enhanced.  County names are checked against the US Census version of the name.  The kDS process assigns latitude and longitude to FIPS numbers per the US Census data.  The process also assigns region and subregions per US Census data. And assigns county population amounts per US Census data. 
+kDS version of this data is stored in CSV files partitioned by month. Current year-month file is updated nightly. No changes are made to previous months.  Additionally,  the data is enhanced.  County names are checked against the US Census version of the name.  The kDS process assigns latitude and longitude to FIPS numbers per the US Census data.  The process also assigns region, subregions and county populations per US Census data. 
 
 Also, case_count_to_date and previous_case_count_to_date are tallies of the inception to date totals. The NYTIMES data does not provide a daily change number.  The only way to find the daily case count is to subtract the previous_case_count_to_date total from the case_count_to_date total.  Same holds true for the previous_death_count_to_date and death_count_to_date. kDS version of the files are located here:
 
