@@ -4,7 +4,8 @@ __2021-04-30__
 
 __DAILY US COUNTY DATA__
 
-Description:  Most current daily US county case and death totals sourced from the NY times github site located at https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv and yearly US Census data at  https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/counties/totals/. Two files generated daily. One CSV the other JSON. Files located at
+Description:  Most current daily US county case and death totals sourced from the NY times github site located at https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv and yearly US Census data at  https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/counties/totals/. Two files generated daily. One CSV the other JSON. 
+kDS version of files located at
 
 https://github.com/dkeeshin/covid19datavault/tree/master/data/001Daily/001DailyUSCounTY.csv
 https://github.com/dkeeshin/covid19datavault/tree/master/data/001Daily/001DailyUSCounTY.json
@@ -32,7 +33,7 @@ https://github.com/dkeeshin/covid19datavault/tree/master/data/001Daily/001DailyU
 __DAILY COUNTRY DATA__
 
 Description:  Most recent three days worth of case and death counts sourced from the Our World In Data at  https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv
-CSV format. File located at: 
+CSV format. kDS version of files located at: 
 
 https://raw.githubusercontent.com/dkeeshin/covid19datavault/master/data/002HistoryToDate/003HistoryToDateCountry.csv
 
@@ -45,7 +46,7 @@ Note: Our World in Data mixes aggregated totals in with this data and identifies
 __DAILY COUNTRY VACCINATION DATA__
 
 Description:  Most current vaccination data to date sourced from the Our World In Data at  https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv 
-CSV format. File located at: 
+CSV format. kDS version of files located at: 
 
 https://raw.githubusercontent.com/dkeeshin/covid19datavault/master/data/002HistoryToDate/004HistoryToDateCountryVaccination.csv
 
