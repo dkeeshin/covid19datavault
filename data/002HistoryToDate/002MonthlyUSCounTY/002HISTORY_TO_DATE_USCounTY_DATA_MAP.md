@@ -2,7 +2,7 @@ __COVID19DataVault__
 __Data Map for CSV and JSON Files__
 __2021-04-29__
 
-__COUNTY DATA TO DATE__
+__US COUNTY DATA TO DATE__
 
 Description:  Data to date US county case and death totals sourced from the NY times github site located at https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties.csv and yearly US Census data at  https://www2.census.gov/programs-surveys/popest/datasets/2010-2019/counties/totals/. 
 
