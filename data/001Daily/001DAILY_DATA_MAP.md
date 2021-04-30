@@ -1,6 +1,6 @@
 __COVID19DataVault__
 __Data Map for CSV and JSON Files__
-__2021-04-22__
+__2021-04-30__
 
 __DAILY US COUNTY DATA__
 
@@ -31,7 +31,7 @@ https://github.com/dkeeshin/covid19datavault/tree/master/data/001Daily/001DailyU
 
 __DAILY COUNTRY DATA__
 
-Description:  Most current case and death counts to date sourced from the Our World In Data at  https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv
+Description:  Most recent three days worth of case and death counts sourced from the Our World In Data at  https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/owid-covid-data.csv
 CSV format. File located at: 
 
 https://raw.githubusercontent.com/dkeeshin/covid19datavault/master/data/002HistoryToDate/003HistoryToDateCountry.csv
@@ -39,6 +39,8 @@ https://raw.githubusercontent.com/dkeeshin/covid19datavault/master/data/002Histo
 The data map for this data is located
 
 https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-codebook.csv
+
+Note: Our World in Data mixes aggregated totals in with this data and identifies the data with by assigning "OWID" to the iso_code.  kDS removes this data to avoid obscuring the actual daily case and death counts by country.
 
 __DAILY COUNTRY VACCINATION DATA__
 
