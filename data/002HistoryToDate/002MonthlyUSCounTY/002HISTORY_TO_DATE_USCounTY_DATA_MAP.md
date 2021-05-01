@@ -16,6 +16,7 @@ You can tell what each year-month file contains by the year-month combination at
 
 002MonthlyUSCounTY202104.csv
 
+Also, we treat the number of cases and the deaths per day as a pair. If either are blank on a given day,  we treat the data as 'missing' and remove it.  
 
 
 | ColumnName | Description |
