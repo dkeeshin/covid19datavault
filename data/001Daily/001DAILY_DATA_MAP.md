@@ -1,6 +1,6 @@
 __COVID19DataVault__
 __Data Map for CSV and JSON Files__
-__2021-04-30__
+__2021-05-02__
 
 __DAILY US COUNTY DATA__
 
@@ -10,6 +10,7 @@ kDS version of files located at
 https://github.com/dkeeshin/covid19datavault/tree/master/data/001Daily/001DailyUSCounTY.csv
 https://github.com/dkeeshin/covid19datavault/tree/master/data/001Daily/001DailyUSCounTY.json
 
+Also, we treat the number of cases and the deaths per day as a pair. If either are blank on a given day, we treat the data as 'missing' and remove it.
 
 | ColumnName | Description |
 | ---------- | ----------- |
