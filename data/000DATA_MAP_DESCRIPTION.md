@@ -15,7 +15,7 @@ contains data map for all US counTY daily case and death totals to date.
 
 https://github.com/dkeeshin/covid19datavault/blob/master/data/002HistoryToDate/004HISTORY_TO_DATE_VACCINATION_DATA_MAP.md  contains data map for all vaccination data to date.
 
-
+https://github.com/dkeeshin/covid19datavault/blob/master/data/001Daily/001DAILY_DATA_MAP.md contains data maps for all current daily ONLY data.
 
 
 
