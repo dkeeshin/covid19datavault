@@ -8,7 +8,7 @@ The solution has three main system components. The first is the on-premises data
 
 ![image](https://github.com/dkeeshin/covid19datavault/blob/master/covid19_datavault_20200611.png)
 
-How It Works 
+__How It Works__
 
 The first step is an automated process that uses Powershell scripts to gather JSON and or CSV data using REST calls to source data that comes from these sites:  
 
@@ -29,8 +29,3 @@ Briefly, if you are not familiar with the data vault design concept-- it is a hy
 
 http://keeshinds.com/blog/kDSBlog20200313.html
 
-The schema for the data-vault as well as the current integration code is located here.    
-
-https://github.com/dkeeshin/covid19datavault 
-
-Let me know if you have any questions.
