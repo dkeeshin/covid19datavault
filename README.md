@@ -1,5 +1,7 @@
 __Covid19DataVault__
+
 To be productive during my recent sheltering, I modeled a data management solution for tracking Covid19 data. It is a working model that tracks Country, US State and US County case data from a variety of sources. 
+
 __Background__
 
 The solution has three main system components. The first is the on-premises data staging and asynchronous controller component. The second is the asynchronous pipeline. The third is the data vault. 
