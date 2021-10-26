@@ -491,6 +491,20 @@
     },
     {
         "collection_date":  "2021-10-24 00:00:00.0000000",
+        "location":  "Poland",
+        "iso_code":  "POL",
+        "total_vaccinations":  38629517,
+        "total_vaccinations_per_hundred":  102.200,
+        "daily_vaccinations_raw":  7645,
+        "daily_vaccinations":  49004,
+        "daily_vaccinations_per_million":  1297.000,
+        "people_vaccinated":  20117277,
+        "people_fully_vaccinated":  19833946,
+        "people_fully_vaccinated_per_hundred":  52.470,
+        "source":  "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
+    },
+    {
+        "collection_date":  "2021-10-24 00:00:00.0000000",
         "location":  "Qatar",
         "iso_code":  "QAT",
         "total_vaccinations":  4811693,
