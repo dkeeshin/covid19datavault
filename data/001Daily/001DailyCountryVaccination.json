@@ -43,6 +43,20 @@
     },
     {
         "collection_date":  "2021-12-24 00:00:00.0000000",
+        "location":  "Austria",
+        "iso_code":  "AUT",
+        "total_vaccinations":  16191246,
+        "total_vaccinations_per_hundred":  179.050,
+        "daily_vaccinations_raw":  5884,
+        "daily_vaccinations":  58314,
+        "daily_vaccinations_per_million":  6448.000,
+        "people_vaccinated":  6587888,
+        "people_fully_vaccinated":  6402541,
+        "people_fully_vaccinated_per_hundred":  70.800,
+        "source":  "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
+    },
+    {
+        "collection_date":  "2021-12-24 00:00:00.0000000",
         "location":  "Azerbaijan",
         "iso_code":  "AZE",
         "total_vaccinations":  11177159,
@@ -113,6 +127,20 @@
     },
     {
         "collection_date":  "2021-12-24 00:00:00.0000000",
+        "location":  "Croatia",
+        "iso_code":  "HRV",
+        "total_vaccinations":  4646820,
+        "total_vaccinations_per_hundred":  113.850,
+        "daily_vaccinations_raw":  4979,
+        "daily_vaccinations":  18216,
+        "daily_vaccinations_per_million":  4463.000,
+        "people_vaccinated":  2251554,
+        "people_fully_vaccinated":  2119841,
+        "people_fully_vaccinated_per_hundred":  51.940,
+        "source":  "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
+    },
+    {
+        "collection_date":  "2021-12-24 00:00:00.0000000",
         "location":  "Curacao",
         "iso_code":  "CUW",
         "total_vaccinations":  206160,
@@ -151,6 +179,34 @@
         "people_vaccinated":  4784019,
         "people_fully_vaccinated":  4536315,
         "people_fully_vaccinated_per_hundred":  78.030,
+        "source":  "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
+    },
+    {
+        "collection_date":  "2021-12-24 00:00:00.0000000",
+        "location":  "Dominican Republic",
+        "iso_code":  "DOM",
+        "total_vaccinations":  14035619,
+        "total_vaccinations_per_hundred":  128.140,
+        "daily_vaccinations_raw":  863,
+        "daily_vaccinations":  5351,
+        "daily_vaccinations_per_million":  489.000,
+        "people_vaccinated":  6932889,
+        "people_fully_vaccinated":  5690156,
+        "people_fully_vaccinated_per_hundred":  51.950,
+        "source":  "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
+    },
+    {
+        "collection_date":  "2021-12-24 00:00:00.0000000",
+        "location":  "Estonia",
+        "iso_code":  "EST",
+        "total_vaccinations":  1512432,
+        "total_vaccinations_per_hundred":  114.130,
+        "daily_vaccinations_raw":  95,
+        "daily_vaccinations":  983,
+        "daily_vaccinations_per_million":  742.000,
+        "people_vaccinated":  839546,
+        "people_fully_vaccinated":  813237,
+        "people_fully_vaccinated_per_hundred":  61.370,
         "source":  "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
     },
     {
@@ -239,6 +295,20 @@
     },
     {
         "collection_date":  "2021-12-24 00:00:00.0000000",
+        "location":  "Ireland",
+        "iso_code":  "IRL",
+        "total_vaccinations":  9465750,
+        "total_vaccinations_per_hundred":  189.960,
+        "daily_vaccinations_raw":  10179,
+        "daily_vaccinations":  72746,
+        "daily_vaccinations_per_million":  14599.000,
+        "people_vaccinated":  3887772,
+        "people_fully_vaccinated":  3829933,
+        "people_fully_vaccinated_per_hundred":  76.860,
+        "source":  "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
+    },
+    {
+        "collection_date":  "2021-12-24 00:00:00.0000000",
         "location":  "Isle of Man",
         "iso_code":  "IMN",
         "total_vaccinations":  175259,
@@ -291,6 +361,20 @@
         "people_vaccinated":  709419,
         "people_fully_vaccinated":  559797,
         "people_fully_vaccinated_per_hundred":  18.830,
+        "source":  "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
+    },
+    {
+        "collection_date":  "2021-12-24 00:00:00.0000000",
+        "location":  "Jordan",
+        "iso_code":  "JOR",
+        "total_vaccinations":  8195175,
+        "total_vaccinations_per_hundred":  79.800,
+        "daily_vaccinations_raw":  2079,
+        "daily_vaccinations":  12153,
+        "daily_vaccinations_per_million":  1183.000,
+        "people_vaccinated":  4302428,
+        "people_fully_vaccinated":  3892747,
+        "people_fully_vaccinated_per_hundred":  37.910,
         "source":  "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
     },
     {
@@ -365,6 +449,20 @@
     },
     {
         "collection_date":  "2021-12-24 00:00:00.0000000",
+        "location":  "Malta",
+        "iso_code":  "MLT",
+        "total_vaccinations":  1030496,
+        "total_vaccinations_per_hundred":  199.670,
+        "daily_vaccinations_raw":  2593,
+        "daily_vaccinations":  3321,
+        "daily_vaccinations_per_million":  6435.000,
+        "people_vaccinated":  440425,
+        "people_fully_vaccinated":  435168,
+        "people_fully_vaccinated_per_hundred":  84.320,
+        "source":  "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
+    },
+    {
+        "collection_date":  "2021-12-24 00:00:00.0000000",
         "location":  "Mongolia",
         "iso_code":  "MNG",
         "total_vaccinations":  5313055,
@@ -421,6 +519,20 @@
     },
     {
         "collection_date":  "2021-12-24 00:00:00.0000000",
+        "location":  "Poland",
+        "iso_code":  "POL",
+        "total_vaccinations":  46155930,
+        "total_vaccinations_per_hundred":  122.120,
+        "daily_vaccinations_raw":  9308,
+        "daily_vaccinations":  117360,
+        "daily_vaccinations_per_million":  3105.000,
+        "people_vaccinated":  21522012,
+        "people_fully_vaccinated":  20922391,
+        "people_fully_vaccinated_per_hundred":  55.350,
+        "source":  "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
+    },
+    {
+        "collection_date":  "2021-12-24 00:00:00.0000000",
         "location":  "Portugal",
         "iso_code":  "PRT",
         "total_vaccinations":  19055363,
@@ -445,6 +557,20 @@
         "people_vaccinated":  null,
         "people_fully_vaccinated":  null,
         "people_fully_vaccinated_per_hundred":  null,
+        "source":  "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
+    },
+    {
+        "collection_date":  "2021-12-24 00:00:00.0000000",
+        "location":  "Romania",
+        "iso_code":  "ROU",
+        "total_vaccinations":  15744585,
+        "total_vaccinations_per_hundred":  82.310,
+        "daily_vaccinations_raw":  11644,
+        "daily_vaccinations":  23723,
+        "daily_vaccinations_per_million":  1240.000,
+        "people_vaccinated":  null,
+        "people_fully_vaccinated":  7774078,
+        "people_fully_vaccinated_per_hundred":  40.640,
         "source":  "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
     },
     {
@@ -487,6 +613,20 @@
         "people_vaccinated":  24933604,
         "people_fully_vaccinated":  23037070,
         "people_fully_vaccinated_per_hundred":  65.190,
+        "source":  "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
+    },
+    {
+        "collection_date":  "2021-12-24 00:00:00.0000000",
+        "location":  "Slovenia",
+        "iso_code":  "SVN",
+        "total_vaccinations":  2880008,
+        "total_vaccinations_per_hundred":  138.550,
+        "daily_vaccinations_raw":  3340,
+        "daily_vaccinations":  11893,
+        "daily_vaccinations_per_million":  5721.000,
+        "people_vaccinated":  1247913,
+        "people_fully_vaccinated":  1186505,
+        "people_fully_vaccinated_per_hundred":  57.080,
         "source":  "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
     },
     {
@@ -597,6 +737,20 @@
         "daily_vaccinations":  168738,
         "daily_vaccinations_per_million":  4972.000,
         "people_vaccinated":  18665352,
+        "people_fully_vaccinated":  null,
+        "people_fully_vaccinated_per_hundred":  null,
+        "source":  "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
+    },
+    {
+        "collection_date":  "2021-12-24 00:00:00.0000000",
+        "location":  "Vietnam",
+        "iso_code":  "VNM",
+        "total_vaccinations":  144513779,
+        "total_vaccinations_per_hundred":  147.210,
+        "daily_vaccinations_raw":  993315,
+        "daily_vaccinations":  991310,
+        "daily_vaccinations_per_million":  10098.000,
+        "people_vaccinated":  76881418,
         "people_fully_vaccinated":  null,
         "people_fully_vaccinated_per_hundred":  null,
         "source":  "https://raw.githubusercontent.com/owid/covid-19-data/master/public/data/vaccinations/vaccinations.csv"
