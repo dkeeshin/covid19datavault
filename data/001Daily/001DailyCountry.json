@@ -1,28 +1,28 @@
 [
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Afghanistan",
-        "case_count":  28,
+        "case_count":  34,
         "death_count":  0,
-        "case_count_to_date":  209274,
+        "case_count_to_date":  209308,
         "death_count_to_date":  7896,
         "population":  37172386,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Albania",
-        "case_count":  5,
+        "case_count":  2,
         "death_count":  0,
-        "case_count_to_date":  334378,
+        "case_count_to_date":  334380,
         "death_count_to_date":  3598,
         "population":  2866376,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Algeria",
-        "case_count":  1,
+        "case_count":  0,
         "death_count":  0,
         "case_count_to_date":  271440,
         "death_count_to_date":  6881,
@@ -30,7 +30,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Andorra",
         "case_count":  0,
         "death_count":  0,
@@ -40,17 +40,17 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Angola",
-        "case_count":  0,
-        "death_count":  0,
-        "case_count_to_date":  105205,
-        "death_count_to_date":  1931,
+        "case_count":  50,
+        "death_count":  2,
+        "case_count_to_date":  105255,
+        "death_count_to_date":  1933,
         "population":  30809762,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Anguilla",
         "case_count":  0,
         "death_count":  0,
@@ -60,7 +60,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Antigua and Barbuda",
         "case_count":  0,
         "death_count":  0,
@@ -70,7 +70,17 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
+        "country":  "Argentina",
+        "case_count":  817,
+        "death_count":  5,
+        "case_count_to_date":  10044125,
+        "death_count_to_date":  130463,
+        "population":  44494502,
+        "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Aruba",
         "case_count":  0,
         "death_count":  0,
@@ -80,17 +90,17 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Azerbaijan",
-        "case_count":  20,
-        "death_count":  1,
+        "case_count":  0,
+        "death_count":  0,
         "case_count_to_date":  828512,
         "death_count_to_date":  10117,
         "population":  9942334,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Bahamas, The",
         "case_count":  0,
         "death_count":  0,
@@ -100,7 +110,17 @@
         "source":  "Covid19DataVault"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
+        "country":  "Bahrain",
+        "case_count":  855,
+        "death_count":  0,
+        "case_count_to_date":  707105,
+        "death_count_to_date":  1548,
+        "population":  1569439,
+        "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Bangladesh",
         "case_count":  0,
         "death_count":  0,
@@ -110,7 +130,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Belarus",
         "case_count":  0,
         "death_count":  0,
@@ -120,17 +140,17 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Belize",
-        "case_count":  0,
+        "case_count":  17,
         "death_count":  0,
-        "case_count_to_date":  70740,
+        "case_count_to_date":  70757,
         "death_count_to_date":  688,
         "population":  383071,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Benin",
         "case_count":  0,
         "death_count":  0,
@@ -140,7 +160,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Bermuda",
         "case_count":  0,
         "death_count":  0,
@@ -150,7 +170,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Bhutan",
         "case_count":  0,
         "death_count":  0,
@@ -160,17 +180,17 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Bolivia",
-        "case_count":  192,
-        "death_count":  1,
-        "case_count_to_date":  1192888,
+        "case_count":  45,
+        "death_count":  0,
+        "case_count_to_date":  1192933,
         "death_count_to_date":  22365,
         "population":  11353142,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "BES Islands",
         "case_count":  0,
         "death_count":  0,
@@ -180,17 +200,27 @@
         "source":  "Covid19DataVault"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Botswana",
-        "case_count":  0,
+        "case_count":  65,
         "death_count":  0,
-        "case_count_to_date":  329662,
+        "case_count_to_date":  329727,
         "death_count_to_date":  2801,
         "population":  2254126,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
+        "country":  "Brazil",
+        "case_count":  17699,
+        "death_count":  78,
+        "case_count_to_date":  37038230,
+        "death_count_to_date":  699006,
+        "population":  209469333,
+        "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "British Virgin Islands",
         "case_count":  0,
         "death_count":  0,
@@ -200,17 +230,17 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Bulgaria",
-        "case_count":  26,
-        "death_count":  0,
-        "case_count_to_date":  1296668,
-        "death_count_to_date":  38211,
+        "case_count":  105,
+        "death_count":  5,
+        "case_count_to_date":  1296773,
+        "death_count_to_date":  38216,
         "population":  7024216,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Burkina Faso",
         "case_count":  0,
         "death_count":  0,
@@ -220,7 +250,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Burundi",
         "case_count":  0,
         "death_count":  0,
@@ -230,37 +260,47 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Cambodia",
-        "case_count":  0,
+        "case_count":  1,
         "death_count":  0,
-        "case_count_to_date":  138714,
+        "case_count_to_date":  138715,
         "death_count_to_date":  3056,
         "population":  16249798,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
-        "country":  "Canada",
-        "case_count":  327,
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
+        "country":  "Cameroon",
+        "case_count":  64,
         "death_count":  0,
-        "case_count_to_date":  4600840,
-        "death_count_to_date":  51375,
+        "case_count_to_date":  124392,
+        "death_count_to_date":  1965,
+        "population":  25216237,
+        "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
+        "country":  "Canada",
+        "case_count":  1190,
+        "death_count":  22,
+        "case_count_to_date":  4602030,
+        "death_count_to_date":  51397,
         "population":  37058856,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Cabo Verde",
-        "case_count":  0,
+        "case_count":  3,
         "death_count":  0,
-        "case_count_to_date":  63240,
+        "case_count_to_date":  63243,
         "death_count_to_date":  413,
         "population":  543767,
         "source":  "Covid19DataVault"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Cayman Islands",
         "case_count":  0,
         "death_count":  0,
@@ -270,7 +310,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Central African Republic",
         "case_count":  0,
         "death_count":  0,
@@ -280,27 +320,27 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Chad",
-        "case_count":  0,
+        "case_count":  3,
         "death_count":  0,
-        "case_count_to_date":  7675,
+        "case_count_to_date":  7678,
         "death_count_to_date":  194,
         "population":  15477751,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Chile",
-        "case_count":  2107,
+        "case_count":  1606,
         "death_count":  8,
-        "case_count_to_date":  5163316,
-        "death_count_to_date":  64166,
+        "case_count_to_date":  5164922,
+        "death_count_to_date":  64174,
         "population":  18729160,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "China",
         "case_count":  0,
         "death_count":  0,
@@ -310,7 +350,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Congo, Dem. Rep.",
         "case_count":  0,
         "death_count":  0,
@@ -320,7 +360,7 @@
         "source":  "Covid19DataVault"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Congo, Rep.",
         "case_count":  0,
         "death_count":  0,
@@ -330,37 +370,37 @@
         "source":  "Covid19DataVault"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Cote d\u0027Ivoire",
-        "case_count":  0,
+        "case_count":  3,
         "death_count":  0,
-        "case_count_to_date":  88182,
+        "case_count_to_date":  88185,
         "death_count_to_date":  834,
         "population":  25069229,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Croatia",
-        "case_count":  0,
-        "death_count":  0,
-        "case_count_to_date":  1268666,
-        "death_count_to_date":  17950,
+        "case_count":  326,
+        "death_count":  21,
+        "case_count_to_date":  1268992,
+        "death_count_to_date":  17971,
         "population":  4089400,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Cuba",
-        "case_count":  5,
+        "case_count":  10,
         "death_count":  0,
-        "case_count_to_date":  1112583,
+        "case_count_to_date":  1112593,
         "death_count_to_date":  8530,
         "population":  11338138,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Curacao",
         "case_count":  0,
         "death_count":  0,
@@ -370,7 +410,17 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
+        "country":  "Denmark",
+        "case_count":  250,
+        "death_count":  11,
+        "case_count_to_date":  3403225,
+        "death_count_to_date":  8255,
+        "population":  5797446,
+        "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Djibouti",
         "case_count":  0,
         "death_count":  0,
@@ -380,7 +430,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Dominica",
         "case_count":  0,
         "death_count":  0,
@@ -390,7 +440,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Dominican Republic",
         "case_count":  0,
         "death_count":  0,
@@ -400,7 +450,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Ecuador",
         "case_count":  0,
         "death_count":  0,
@@ -410,7 +460,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Egypt, Arab Rep.",
         "case_count":  0,
         "death_count":  0,
@@ -420,7 +470,7 @@
         "source":  "Covid19DataVault"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "El Salvador",
         "case_count":  0,
         "death_count":  0,
@@ -430,7 +480,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Equatorial Guinea",
         "case_count":  0,
         "death_count":  0,
@@ -440,7 +490,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Eritrea",
         "case_count":  0,
         "death_count":  0,
@@ -450,7 +500,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Estonia",
         "case_count":  0,
         "death_count":  0,
@@ -460,17 +510,17 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Ethiopia",
-        "case_count":  0,
+        "case_count":  15,
         "death_count":  0,
-        "case_count_to_date":  499959,
+        "case_count_to_date":  499974,
         "death_count_to_date":  7572,
         "population":  109224559,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Faroe Islands",
         "case_count":  0,
         "death_count":  0,
@@ -480,7 +530,7 @@
         "source":  "Covid19DataVault"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Fiji",
         "case_count":  0,
         "death_count":  0,
@@ -490,7 +540,17 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
+        "country":  "France",
+        "case_count":  7626,
+        "death_count":  52,
+        "case_count_to_date":  39656681,
+        "death_count_to_date":  164998,
+        "population":  66987244,
+        "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "French Polynesia",
         "case_count":  0,
         "death_count":  0,
@@ -500,7 +560,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Gabon",
         "case_count":  0,
         "death_count":  0,
@@ -510,7 +570,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Gambia, The",
         "case_count":  0,
         "death_count":  0,
@@ -520,7 +580,17 @@
         "source":  "Covid19DataVault"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
+        "country":  "Germany",
+        "case_count":  32970,
+        "death_count":  139,
+        "case_count_to_date":  38144033,
+        "death_count_to_date":  167951,
+        "population":  82927922,
+        "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Ghana",
         "case_count":  0,
         "death_count":  0,
@@ -530,7 +600,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Gibraltar",
         "case_count":  0,
         "death_count":  0,
@@ -540,7 +610,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Greece",
         "case_count":  0,
         "death_count":  0,
@@ -550,7 +620,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Greenland",
         "case_count":  0,
         "death_count":  0,
@@ -560,7 +630,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Grenada",
         "case_count":  0,
         "death_count":  0,
@@ -570,17 +640,17 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Guatemala",
-        "case_count":  52,
+        "case_count":  26,
         "death_count":  1,
-        "case_count_to_date":  1235970,
-        "death_count_to_date":  20168,
+        "case_count_to_date":  1235996,
+        "death_count_to_date":  20169,
         "population":  17247807,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Guinea",
         "case_count":  0,
         "death_count":  0,
@@ -590,7 +660,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Guinea-Bissau",
         "case_count":  0,
         "death_count":  0,
@@ -600,7 +670,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Guyana",
         "case_count":  0,
         "death_count":  0,
@@ -610,7 +680,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Haiti",
         "case_count":  0,
         "death_count":  0,
@@ -620,17 +690,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
-        "country":  "Honduras",
-        "case_count":  559,
-        "death_count":  2,
-        "case_count_to_date":  472116,
-        "death_count_to_date":  11111,
-        "population":  9587522,
-        "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
-    },
-    {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Iceland",
         "case_count":  0,
         "death_count":  0,
@@ -640,37 +700,37 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "India",
-        "case_count":  185,
+        "case_count":  169,
         "death_count":  1,
-        "case_count_to_date":  44687428,
-        "death_count_to_date":  530770,
+        "case_count_to_date":  44687597,
+        "death_count_to_date":  530771,
         "population":  1352617328,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Indonesia",
-        "case_count":  177,
+        "case_count":  152,
         "death_count":  3,
-        "case_count_to_date":  6735628,
-        "death_count_to_date":  160908,
+        "case_count_to_date":  6735780,
+        "death_count_to_date":  160911,
         "population":  267663435,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Iran, Islamic Rep.",
-        "case_count":  83,
-        "death_count":  7,
-        "case_count_to_date":  7567702,
-        "death_count_to_date":  144842,
+        "case_count":  122,
+        "death_count":  3,
+        "case_count_to_date":  7567824,
+        "death_count_to_date":  144845,
         "population":  81800269,
         "source":  "Covid19DataVault"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Iraq",
         "case_count":  0,
         "death_count":  0,
@@ -680,7 +740,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Isle of Man",
         "case_count":  0,
         "death_count":  0,
@@ -690,17 +750,17 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Israel",
-        "case_count":  585,
-        "death_count":  4,
-        "case_count_to_date":  4798142,
-        "death_count_to_date":  12272,
+        "case_count":  503,
+        "death_count":  12,
+        "case_count_to_date":  4798645,
+        "death_count_to_date":  12284,
         "population":  8883800,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Jamaica",
         "case_count":  0,
         "death_count":  0,
@@ -710,17 +770,17 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Japan",
-        "case_count":  12399,
-        "death_count":  62,
-        "case_count_to_date":  33207108,
-        "death_count_to_date":  72276,
+        "case_count":  5330,
+        "death_count":  52,
+        "case_count_to_date":  33212438,
+        "death_count_to_date":  72328,
         "population":  126529100,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Jordan",
         "case_count":  0,
         "death_count":  0,
@@ -730,37 +790,37 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Kazakhstan",
-        "case_count":  0,
+        "case_count":  1219,
         "death_count":  0,
-        "case_count_to_date":  1497449,
+        "case_count_to_date":  1498668,
         "death_count_to_date":  19068,
         "population":  18276499,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Kenya",
-        "case_count":  0,
+        "case_count":  12,
         "death_count":  0,
-        "case_count_to_date":  342900,
+        "case_count_to_date":  342912,
         "death_count_to_date":  5688,
         "population":  51393010,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Kosovo",
-        "case_count":  32,
-        "death_count":  1,
-        "case_count_to_date":  273034,
-        "death_count_to_date":  3208,
+        "case_count":  12,
+        "death_count":  2,
+        "case_count_to_date":  273046,
+        "death_count_to_date":  3210,
         "population":  1845300,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Kyrgyz Republic",
         "case_count":  0,
         "death_count":  0,
@@ -770,7 +830,7 @@
         "source":  "Covid19DataVault"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Lao PDR",
         "case_count":  0,
         "death_count":  0,
@@ -780,77 +840,77 @@
         "source":  "Covid19DataVault"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Latvia",
-        "case_count":  0,
+        "case_count":  49,
         "death_count":  0,
-        "case_count_to_date":  975928,
+        "case_count_to_date":  975977,
         "death_count_to_date":  6258,
         "population":  1926542,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Lebanon",
-        "case_count":  136,
-        "death_count":  2,
-        "case_count_to_date":  1231713,
-        "death_count_to_date":  10825,
+        "case_count":  127,
+        "death_count":  3,
+        "case_count_to_date":  1231840,
+        "death_count_to_date":  10828,
         "population":  6848925,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Liberia",
-        "case_count":  0,
+        "case_count":  12,
         "death_count":  0,
-        "case_count_to_date":  8065,
+        "case_count_to_date":  8077,
         "death_count_to_date":  294,
         "population":  4818977,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Libya",
-        "case_count":  0,
+        "case_count":  3,
         "death_count":  0,
-        "case_count_to_date":  507171,
+        "case_count_to_date":  507174,
         "death_count_to_date":  6437,
         "population":  6678567,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Liechtenstein",
-        "case_count":  0,
+        "case_count":  18,
         "death_count":  0,
-        "case_count_to_date":  21395,
+        "case_count_to_date":  21413,
         "death_count_to_date":  89,
         "population":  37910,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Lithuania",
-        "case_count":  39,
-        "death_count":  0,
-        "case_count_to_date":  1304062,
-        "death_count_to_date":  9582,
+        "case_count":  52,
+        "death_count":  3,
+        "case_count_to_date":  1304114,
+        "death_count_to_date":  9585,
         "population":  2789533,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Madagascar",
-        "case_count":  13,
-        "death_count":  1,
+        "case_count":  0,
+        "death_count":  0,
         "case_count_to_date":  67865,
         "death_count_to_date":  1422,
         "population":  26262368,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Malawi",
         "case_count":  0,
         "death_count":  0,
@@ -860,37 +920,37 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Malaysia",
-        "case_count":  207,
+        "case_count":  190,
         "death_count":  0,
-        "case_count_to_date":  5042395,
+        "case_count_to_date":  5042585,
         "death_count_to_date":  36957,
         "population":  31528585,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Maldives",
-        "case_count":  0,
+        "case_count":  3,
         "death_count":  0,
-        "case_count_to_date":  185729,
+        "case_count_to_date":  185732,
         "death_count_to_date":  311,
         "population":  515696,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Mali",
-        "case_count":  1,
+        "case_count":  4,
         "death_count":  0,
-        "case_count_to_date":  32998,
+        "case_count_to_date":  33002,
         "death_count_to_date":  743,
         "population":  19077690,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Malta",
         "case_count":  0,
         "death_count":  0,
@@ -900,7 +960,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Mauritania",
         "case_count":  0,
         "death_count":  0,
@@ -910,17 +970,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
-        "country":  "Mexico",
-        "case_count":  7841,
-        "death_count":  48,
-        "case_count_to_date":  7450992,
-        "death_count_to_date":  332986,
-        "population":  126190788,
-        "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
-    },
-    {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Monaco",
         "case_count":  0,
         "death_count":  0,
@@ -930,7 +980,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Mongolia",
         "case_count":  0,
         "death_count":  0,
@@ -940,7 +990,17 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
+        "country":  "Montenegro",
+        "case_count":  109,
+        "death_count":  3,
+        "case_count_to_date":  288197,
+        "death_count_to_date":  2804,
+        "population":  622345,
+        "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Montserrat",
         "case_count":  0,
         "death_count":  0,
@@ -950,27 +1010,37 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Morocco",
-        "case_count":  3,
+        "case_count":  1,
         "death_count":  0,
-        "case_count_to_date":  1272445,
+        "case_count_to_date":  1272446,
         "death_count_to_date":  16296,
         "population":  36029138,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
-        "country":  "Myanmar",
-        "case_count":  4,
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
+        "country":  "Mozambique",
+        "case_count":  0,
         "death_count":  0,
-        "case_count_to_date":  633911,
+        "case_count_to_date":  233098,
+        "death_count_to_date":  2242,
+        "population":  29495962,
+        "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
+        "country":  "Myanmar",
+        "case_count":  3,
+        "death_count":  0,
+        "case_count_to_date":  633914,
         "death_count_to_date":  19490,
         "population":  53708395,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Namibia",
         "case_count":  0,
         "death_count":  0,
@@ -980,17 +1050,17 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Nepal",
-        "case_count":  0,
+        "case_count":  3,
         "death_count":  0,
-        "case_count_to_date":  1001140,
+        "case_count_to_date":  1001143,
         "death_count_to_date":  12020,
         "population":  28087871,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "New Caledonia",
         "case_count":  0,
         "death_count":  0,
@@ -1000,17 +1070,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
-        "country":  "New Zealand",
-        "case_count":  9082,
-        "death_count":  8,
-        "case_count_to_date":  2217640,
-        "death_count_to_date":  2542,
-        "population":  4885500,
-        "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
-    },
-    {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Nicaragua",
         "case_count":  0,
         "death_count":  0,
@@ -1020,7 +1080,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Niger",
         "case_count":  0,
         "death_count":  0,
@@ -1030,27 +1090,27 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Nigeria",
-        "case_count":  0,
+        "case_count":  130,
         "death_count":  0,
-        "case_count_to_date":  266463,
+        "case_count_to_date":  266593,
         "death_count_to_date":  3155,
         "population":  195874740,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Norway",
-        "case_count":  19,
+        "case_count":  72,
         "death_count":  0,
-        "case_count_to_date":  1478907,
+        "case_count_to_date":  1478979,
         "death_count_to_date":  5175,
         "population":  5314336,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Oman",
         "case_count":  0,
         "death_count":  0,
@@ -1060,17 +1120,17 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Pakistan",
-        "case_count":  143,
-        "death_count":  2,
-        "case_count_to_date":  1576938,
+        "case_count":  23,
+        "death_count":  0,
+        "case_count_to_date":  1576961,
         "death_count_to_date":  30643,
         "population":  212215030,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "West Bank and Gaza",
         "case_count":  0,
         "death_count":  0,
@@ -1080,7 +1140,17 @@
         "source":  "Covid19DataVault"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
+        "country":  "Panama",
+        "case_count":  259,
+        "death_count":  1,
+        "case_count_to_date":  1031273,
+        "death_count_to_date":  8604,
+        "population":  4176873,
+        "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Papua New Guinea",
         "case_count":  0,
         "death_count":  0,
@@ -1090,27 +1160,17 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
-        "country":  "Philippines",
-        "case_count":  173,
-        "death_count":  14,
-        "case_count_to_date":  4076237,
-        "death_count_to_date":  66097,
-        "population":  106651922,
-        "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
-    },
-    {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Poland",
-        "case_count":  427,
+        "case_count":  431,
         "death_count":  0,
-        "case_count_to_date":  6415280,
+        "case_count_to_date":  6415711,
         "death_count_to_date":  118868,
         "population":  37978548,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Portugal",
         "case_count":  0,
         "death_count":  0,
@@ -1120,37 +1180,47 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Qatar",
-        "case_count":  212,
+        "case_count":  120,
         "death_count":  0,
-        "case_count_to_date":  493936,
+        "case_count_to_date":  494056,
         "death_count_to_date":  686,
         "population":  2781677,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
+        "country":  "Romania",
+        "case_count":  5211,
+        "death_count":  29,
+        "case_count_to_date":  3340342,
+        "death_count_to_date":  67704,
+        "population":  19473936,
+        "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Russian Federation",
-        "case_count":  9520,
-        "death_count":  30,
-        "case_count_to_date":  21941582,
-        "death_count_to_date":  388063,
+        "case_count":  9477,
+        "death_count":  28,
+        "case_count_to_date":  21951059,
+        "death_count_to_date":  388091,
         "population":  144478050,
         "source":  "Covid19DataVault"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Rwanda",
-        "case_count":  0,
+        "case_count":  10,
         "death_count":  0,
-        "case_count_to_date":  133170,
+        "case_count_to_date":  133180,
         "death_count_to_date":  1468,
         "population":  12301939,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "St. Kitts and Nevis",
         "case_count":  0,
         "death_count":  0,
@@ -1160,7 +1230,7 @@
         "source":  "Covid19DataVault"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "St. Lucia",
         "case_count":  0,
         "death_count":  0,
@@ -1170,7 +1240,7 @@
         "source":  "Covid19DataVault"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "St. Vincent and the Grenadines",
         "case_count":  0,
         "death_count":  0,
@@ -1180,7 +1250,7 @@
         "source":  "Covid19DataVault"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "San Marino",
         "case_count":  0,
         "death_count":  0,
@@ -1190,7 +1260,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Sao Tome and Principe",
         "case_count":  0,
         "death_count":  0,
@@ -1200,17 +1270,17 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Saudi Arabia",
-        "case_count":  59,
+        "case_count":  101,
         "death_count":  1,
-        "case_count_to_date":  829287,
-        "death_count_to_date":  9614,
+        "case_count_to_date":  829388,
+        "death_count_to_date":  9615,
         "population":  33699947,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Senegal",
         "case_count":  0,
         "death_count":  0,
@@ -1220,17 +1290,17 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Serbia",
-        "case_count":  499,
-        "death_count":  9,
-        "case_count_to_date":  2490810,
-        "death_count_to_date":  17816,
+        "case_count":  894,
+        "death_count":  5,
+        "case_count_to_date":  2491704,
+        "death_count_to_date":  17821,
         "population":  6982084,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Seychelles",
         "case_count":  0,
         "death_count":  0,
@@ -1240,7 +1310,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Sierra Leone",
         "case_count":  0,
         "death_count":  0,
@@ -1250,37 +1320,37 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Singapore",
-        "case_count":  0,
+        "case_count":  4391,
         "death_count":  0,
-        "case_count_to_date":  2222006,
+        "case_count_to_date":  2226397,
         "death_count_to_date":  1722,
         "population":  5638676,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Slovak Republic",
-        "case_count":  64,
-        "death_count":  1,
-        "case_count_to_date":  2664926,
+        "case_count":  46,
+        "death_count":  0,
+        "case_count_to_date":  2664972,
         "death_count_to_date":  21017,
         "population":  5447011,
         "source":  "Covid19DataVault"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Slovenia",
-        "case_count":  103,
+        "case_count":  81,
         "death_count":  0,
-        "case_count_to_date":  1327516,
+        "case_count_to_date":  1327597,
         "death_count_to_date":  7071,
         "population":  2067372,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Somalia",
         "case_count":  0,
         "death_count":  0,
@@ -1290,17 +1360,27 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
+        "country":  "South Africa",
+        "case_count":  1854,
+        "death_count":  0,
+        "case_count_to_date":  4063237,
+        "death_count_to_date":  102595,
+        "population":  57779622,
+        "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Korea, Rep.",
-        "case_count":  13238,
-        "death_count":  21,
-        "case_count_to_date":  30502904,
-        "death_count_to_date":  33961,
+        "case_count":  10817,
+        "death_count":  16,
+        "case_count_to_date":  30513721,
+        "death_count_to_date":  33977,
         "population":  51635256,
         "source":  "Covid19DataVault"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "South Sudan",
         "case_count":  0,
         "death_count":  0,
@@ -1310,17 +1390,17 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Sri Lanka",
-        "case_count":  1,
+        "case_count":  2,
         "death_count":  0,
-        "case_count_to_date":  672027,
+        "case_count_to_date":  672029,
         "death_count_to_date":  16830,
         "population":  21670000,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Sudan",
         "case_count":  0,
         "death_count":  0,
@@ -1330,7 +1410,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Suriname",
         "case_count":  0,
         "death_count":  0,
@@ -1340,7 +1420,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Eswatini",
         "case_count":  0,
         "death_count":  0,
@@ -1350,17 +1430,17 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Syrian Arab Republic",
-        "case_count":  0,
+        "case_count":  4,
         "death_count":  0,
-        "case_count_to_date":  57463,
+        "case_count_to_date":  57467,
         "death_count_to_date":  3164,
         "population":  16906283,
         "source":  "Covid19DataVault"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Tanzania",
         "case_count":  0,
         "death_count":  0,
@@ -1370,17 +1450,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
-        "country":  "Thailand",
-        "case_count":  204,
-        "death_count":  9,
-        "case_count_to_date":  4728035,
-        "death_count_to_date":  33911,
-        "population":  69428524,
-        "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
-    },
-    {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Timor-Leste",
         "case_count":  0,
         "death_count":  0,
@@ -1390,17 +1460,17 @@
         "source":  "Covid19DataVault"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Togo",
         "case_count":  3,
         "death_count":  0,
-        "case_count_to_date":  39374,
+        "case_count_to_date":  39377,
         "death_count_to_date":  290,
         "population":  7889094,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Turkey",
         "case_count":  0,
         "death_count":  0,
@@ -1410,7 +1480,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Turks and Caicos Islands",
         "case_count":  0,
         "death_count":  0,
@@ -1420,37 +1490,47 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Uganda",
-        "case_count":  0,
+        "case_count":  26,
         "death_count":  0,
-        "case_count_to_date":  170478,
+        "case_count_to_date":  170504,
         "death_count_to_date":  3630,
         "population":  42723139,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Ukraine",
-        "case_count":  54,
-        "death_count":  1,
-        "case_count_to_date":  5693650,
-        "death_count_to_date":  119147,
+        "case_count":  103,
+        "death_count":  2,
+        "case_count_to_date":  5693753,
+        "death_count_to_date":  119149,
         "population":  44622516,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "United Arab Emirates",
-        "case_count":  130,
+        "case_count":  68,
         "death_count":  0,
-        "case_count_to_date":  1051862,
+        "case_count_to_date":  1051930,
         "death_count_to_date":  2349,
         "population":  9630959,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
+        "country":  "Uruguay",
+        "case_count":  257,
+        "death_count":  0,
+        "case_count_to_date":  1034303,
+        "death_count_to_date":  7617,
+        "population":  3449299,
+        "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
+    },
+    {
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Uzbekistan",
         "case_count":  0,
         "death_count":  0,
@@ -1460,27 +1540,27 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Venezuela, RB",
-        "case_count":  17,
-        "death_count":  1,
+        "case_count":  0,
+        "death_count":  0,
         "case_count_to_date":  551974,
         "death_count_to_date":  5853,
         "population":  28870195,
         "source":  "Covid19DataVault"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Vietnam",
-        "case_count":  10,
+        "case_count":  4,
         "death_count":  0,
-        "case_count_to_date":  11526901,
+        "case_count_to_date":  11526905,
         "death_count_to_date":  43186,
         "population":  95540395,
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Yemen, Rep.",
         "case_count":  0,
         "death_count":  0,
@@ -1490,7 +1570,7 @@
         "source":  "Covid19DataVault"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Zambia",
         "case_count":  0,
         "death_count":  0,
@@ -1500,7 +1580,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Comoros",
         "case_count":  0,
         "death_count":  0,
@@ -1510,7 +1590,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Lesotho",
         "case_count":  0,
         "death_count":  0,
@@ -1520,7 +1600,7 @@
         "source":  "https://covid.ourworldindata.org/data/ecdc/full_data.csv"
     },
     {
-        "monitor_date":  "2023-02-26 00:00:00.0000000",
+        "monitor_date":  "2023-02-27 00:00:00.0000000",
         "country":  "Tajikistan",
         "case_count":  0,
         "death_count":  0,
